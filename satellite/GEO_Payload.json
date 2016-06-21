@@ -1,0 +1,9639 @@
+dataJSON = {
+  "meta": {
+    "schema_version": 1,
+    "visio_wimics_version": 3,
+    "width": 6201,
+    "height": 4961,
+    "satellite": {
+      "scc": "GEO",
+      "csc": "GEO"
+    },
+    "diagram": "Payload",
+    "version": 3,
+    "export_date": "2015-08-25T11:10:36Z",
+    "filter_by_freq": false,
+    "allow_multiplex": false
+  },
+  "tm_overrides": [{
+    "tm": "DC001",
+    "values": [{
+      "raw": 0,
+      "cal": "ON"
+    }, {
+      "raw": 1,
+      "cal": "OFF"
+    }, {
+      "raw": 1,
+      "cal": "POS1"
+    }, {
+      "raw": 2,
+      "cal": "POS2"
+    }, {
+      "raw": 3,
+      "cal": "POS3"
+    }, {
+      "raw": 4,
+      "cal": "POS4"
+    }]
+  }, {
+    "tm": "4WS03",
+    "values": [{
+      "raw": 0,
+      "cal": "ON"
+    }, {
+      "raw": 1,
+      "cal": "OFF"
+    }, {
+      "raw": 1,
+      "cal": "POS1"
+    }, {
+      "raw": 2,
+      "cal": "POS2"
+    }, {
+      "raw": 3,
+      "cal": "POS3"
+    }, {
+      "raw": 4,
+      "cal": "POS4"
+    }]
+  }],
+  "annotations": [{
+    "id": 1,
+    "components": [],
+    "start_version": 1,
+    "end_version": 1,
+    "deleted": false,
+    "annotation": ""
+  }, {
+    "id": 2,
+    "components": [],
+    "start_version": -1,
+    "end_version": -1,
+    "deleted": false,
+    "annotation": ""
+  }, {
+    "id": 3,
+    "components": [479],
+    "start_version": -1,
+    "end_version": -1,
+    "deleted": false,
+    "annotation": ""
+  }, {
+    "id": 4,
+    "components": [499, 492],
+    "start_version": -1,
+    "end_version": -1,
+    "deleted": false,
+    "annotation": ""
+  }, {
+    "id": 5,
+    "components": [],
+    "start_version": -1,
+    "end_version": -1,
+    "deleted": false,
+    "annotation": "Annotation 5 - All versions > < ' \" & - test 2"
+  }],
+  "components": [{
+    "id": 609,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.609"
+    },
+    "g": {
+      "path": "M 1488.2 2267.7 L 1488.2 2444.9 L 1151.4 2444.9 L 1151.4 2657.5"
+    }
+  }, {
+    "id": 608,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.608"
+    },
+    "g": {
+      "path": "M 1452.8 3330.7 L 1452.8 2586.6 L 1257.7 2586.6 L 1257.7 2657.5"
+    }
+  }, {
+    "id": 605,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.605"
+    },
+    "g": {
+      "path": "M 1629.9 2090.6 L 1629.9 2161.4 L 1559.1 2161.4 L 1559.1 2232.3 L 1488.2 2232.3"
+    }
+  }, {
+    "id": 604,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.604"
+    },
+    "g": {
+      "path": "M 1629.9 1948.8 L 1629.9 1984.3 L 1523.6 1984.3 L 1523.6 2232.3 L 1488.2 2232.3"
+    }
+  }, {
+    "id": 601,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.601"
+    },
+    "g": {
+      "path": "M 815 3543.3 L 850.4 3543.3"
+    }
+  }, {
+    "id": 599,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.599"
+    },
+    "g": {
+      "path": "M 885.8 3702.7 L 885.8 3578.7"
+    }
+  }, {
+    "id": 598,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.598"
+    },
+    "g": {
+      "path": "M 921.3 3543.3 L 1240.2 3543.3"
+    }
+  }, {
+    "id": 594,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.594"
+    },
+    "g": {
+      "path": "M 1842.8 3578.7 L 1842.8 3596.5 L 1842.5 3596.5 L 1842.5 3702.7"
+    }
+  }, {
+    "id": 589,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.589"
+    },
+    "g": {
+      "path": "M 1683.4 3543.3 L 1807.4 3543.3"
+    }
+  }, {
+    "id": 588,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.588"
+    },
+    "g": {
+      "path": "M 1346.5 3543.3 L 1577.1 3543.3"
+    }
+  }, {
+    "id": 585,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.585"
+    },
+    "g": {
+      "path": "M 1842.8 3507.9 L 1842.8 3490.2 L 1842.5 3490.2 L 1842.5 2090.6"
+    }
+  }, {
+    "id": 583,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.583"
+    },
+    "g": {
+      "path": "M 1878 1771.7 L 2090.6 1771.7 L 2090.6 1364.2 L 2267.7 1364.2"
+    }
+  }, {
+    "id": 582,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.582"
+    },
+    "g": {
+      "path": "M 1683.1 2055.1 L 1807.1 2055.1"
+    }
+  }, {
+    "id": 581,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.581"
+    },
+    "g": {
+      "path": "M 1683.1 1913.4 L 1807.1 1913.4"
+    }
+  }, {
+    "id": 580,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.580"
+    },
+    "g": {
+      "path": "M 1842.5 1948.8 L 1842.5 2019.7"
+    }
+  }, {
+    "id": 579,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.579"
+    },
+    "g": {
+      "path": "M 1842.5 1807.1 L 1842.5 1878"
+    }
+  }, {
+    "id": 576,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.576"
+    },
+    "g": {
+      "path": "M 1027.9 1948.8 L 1133.9 1948.8 L 1133.9 2055.1 L 1240.2 2055.1"
+    }
+  }, {
+    "id": 575,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.575"
+    },
+    "g": {
+      "path": "M 1027.9 1913.4 L 1169.3 1913.4 L 1169.3 1913.4 L 1240.2 1913.4"
+    }
+  }, {
+    "id": 571,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.571"
+    },
+    "g": {
+      "path": "M 1346.5 2055.1 L 1576.8 2055.1"
+    }
+  }, {
+    "id": 567,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.567"
+    },
+    "g": {
+      "path": "M 1346.5 1913.4 L 1576.8 1913.4"
+    }
+  }, {
+    "id": 566,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.566"
+    },
+    "g": {
+      "path": "M 1027.9 1878 L 1133.9 1878 L 1133.9 1771.7 L 1240.2 1771.7"
+    }
+  }, {
+    "id": 147,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.147"
+    },
+    "g": {
+      "path": "M 2303.1 1275.2 L 2303.1 1364.2"
+    }
+  }, {
+    "id": 559,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.559"
+    },
+    "g": {
+      "path": "M 1807.1 1771.7 L 1683.1 1771.7"
+    }
+  }, {
+    "id": 556,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.556"
+    },
+    "g": {
+      "path": "M 1346.5 1771.7 L 1576.8 1771.7"
+    }
+  }, {
+    "id": 560,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.560"
+    },
+    "g": {
+      "path": "M 779.5 2444.9 L 779.5 2409.4 L 885.8 2409.4 L 885.8 1948.8 L 957 1948.8"
+    }
+  }, {
+    "id": 555,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.555"
+    },
+    "g": {
+      "path": "M 1204.6 2905.5 L 1204.6 2887.8 L 1204.9 2887.8 L 1204.9 2834.7"
+    }
+  }, {
+    "id": 301,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.549"
+    },
+    "g": {
+      "path": "M 1257.7 2728.3 L 1257.7 2799.3 L 1204.9 2799.3"
+    }
+  }, {
+    "id": 300,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.548"
+    },
+    "g": {
+      "path": "M 1151.4 2728.3 L 1151.4 2799.3 L 1204.9 2799.3"
+    }
+  }, {
+    "id": 299,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.547"
+    },
+    "g": {
+      "path": "M 1629.9 3968.4 L 1629.9 4003.8 L 1417.3 4003.8 L 1417.3 3366.1 L 1452.8 3366.1"
+    }
+  }, {
+    "id": 298,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.546"
+    },
+    "g": {
+      "path": "M 1629.9 3773.5 L 1629.9 3809 L 1452.8 3809 L 1452.8 3366.1"
+    }
+  }, {
+    "id": 297,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.544"
+    },
+    "g": {
+      "path": "M 1629.9 1399.5 L 1629.9 1434.9 L 1452.8 1434.9 L 1452.8 2232.3 L 1488.2 2232.3"
+    }
+  }, {
+    "id": 296,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector"
+    },
+    "g": {
+      "path": "M 1629.9 1169.2 L 1629.9 1204.6 L 1417.3 1204.6 L 1417.3 2232.3 L 1488.2 2232.3"
+    }
+  }, {
+    "id": 295,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.539"
+    },
+    "g": {
+      "path": "M 4074.8 4853.9 L 4074.8 4889.7 L 4464.3 4889.7 L 4464.3 2622"
+    }
+  }, {
+    "id": 294,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.538"
+    },
+    "g": {
+      "path": "M 4393.4 247.9 L 4393.4 2515.7 L 4074.8 2515.7 L 4074.8 2479.9"
+    }
+  }, {
+    "id": 293,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.537"
+    },
+    "g": {
+      "path": "M 4428.8 212.5 L 4464.3 212.5 L 4464.3 2551.1"
+    }
+  }, {
+    "id": 292,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.536"
+    },
+    "g": {
+      "path": "M 4393.4 177.1 L 4393.4 141.6 L 4535.1 141.6 L 4535.1 2586.5 L 4499.7 2586.5"
+    }
+  }, {
+    "id": 291,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.535"
+    },
+    "g": {
+      "path": "M 2586.3 2622 L 2586.3 4889.7 L 2976.4 4889.7 L 2976.4 4853.9"
+    }
+  }, {
+    "id": 290,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.534"
+    },
+    "g": {
+      "path": "M 2657.2 247.9 L 2657.2 2515.7 L 2976.4 2515.7 L 2976.4 2479.9"
+    }
+  }, {
+    "id": 289,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.533"
+    },
+    "g": {
+      "path": "M 2621.7 212.5 L 2586.3 212.5 L 2586.3 2551.1"
+    }
+  }, {
+    "id": 288,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.532"
+    },
+    "g": {
+      "path": "M 2657.2 177.1 L 2657.2 141.6 L 2515.4 141.6 L 2515.4 2586.5 L 2550.9 2586.5"
+    }
+  }, {
+    "id": 287,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.531"
+    },
+    "g": {
+      "path": "M 2303.1 4818.5 L 2303.1 4535.4"
+    }
+  }, {
+    "id": 286,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.530"
+    },
+    "g": {
+      "path": "M 2303.1 4393.3 L 2303.1 4535.4"
+    }
+  }, {
+    "id": 285,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.529"
+    },
+    "g": {
+      "path": "M 2303.1 4676.8 L 2303.1 4535.4"
+    }
+  }, {
+    "id": 284,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.528"
+    },
+    "g": {
+      "path": "M 2303.1 4251.6 L 2303.1 4535.4"
+    }
+  }, {
+    "id": 283,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.527"
+    },
+    "g": {
+      "path": "M 2303.1 3968.1 L 2303.1 3738.2"
+    }
+  }, {
+    "id": 282,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.526"
+    },
+    "g": {
+      "path": "M 2303.1 3826.4 L 2303.1 3738.2"
+    }
+  }, {
+    "id": 281,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.525"
+    },
+    "g": {
+      "path": "M 2303.1 3649.2 L 2303.1 3738.2"
+    }
+  }, {
+    "id": 280,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.524"
+    },
+    "g": {
+      "path": "M 2834.6 2763.4 L 2834.6 2728 L 2728.3 2728 L 2728.3 4747.6 L 2834.6 4747.6 L 2834.6 4712.2"
+    }
+  }, {
+    "id": 279,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.523"
+    },
+    "g": {
+      "path": "M 2834.6 3542.9 L 2834.6 3932.7"
+    }
+  }, {
+    "id": 278,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.522"
+    },
+    "g": {
+      "path": "M 4074.8 3684.6 L 4074.8 3790.9"
+    }
+  }, {
+    "id": 277,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.521"
+    },
+    "g": {
+      "path": "M 2976.4 3684.6 L 2976.4 3790.9"
+    }
+  }, {
+    "id": 276,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.520"
+    },
+    "g": {
+      "path": "M 4818.9 4818.5 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 275,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.519"
+    },
+    "g": {
+      "path": "M 4818.9 4676.8 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 274,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.518"
+    },
+    "g": {
+      "path": "M 4818.9 4251.6 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 273,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.517"
+    },
+    "g": {
+      "path": "M 3773.6 4818.5 L 4039.4 4818.5"
+    }
+  }, {
+    "id": 272,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.516"
+    },
+    "g": {
+      "path": "M 3773.6 4251.6 L 4039.4 4251.6"
+    }
+  }, {
+    "id": 271,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.515"
+    },
+    "g": {
+      "path": "M 4110.2 4818.5 L 4677.2 4818.5"
+    }
+  }, {
+    "id": 270,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.514"
+    },
+    "g": {
+      "path": "M 4252 4676.8 L 4677.2 4676.8"
+    }
+  }, {
+    "id": 269,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.513"
+    },
+    "g": {
+      "path": "M 3773.6 4676.8 L 4181.1 4676.8"
+    }
+  }, {
+    "id": 268,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.512"
+    },
+    "g": {
+      "path": "M 4074.8 4570.5 L 4074.8 4783.1"
+    }
+  }, {
+    "id": 267,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.509"
+    },
+    "g": {
+      "path": "M 4110.2 4251.6 L 4677.2 4251.6"
+    }
+  }, {
+    "id": 266,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.508"
+    },
+    "g": {
+      "path": "M 4074.8 4216.1 L 4074.8 4145.3"
+    }
+  }, {
+    "id": 265,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.503"
+    },
+    "g": {
+      "path": "M 3011.8 4818.5 L 3118.1 4818.5"
+    }
+  }, {
+    "id": 264,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.502"
+    },
+    "g": {
+      "path": "M 2976.4 4570.5 L 2976.4 4783.1"
+    }
+  }, {
+    "id": 263,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.501"
+    },
+    "g": {
+      "path": "M 2444.9 4818.5 L 2940.9 4818.5"
+    }
+  }, {
+    "id": 262,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.498"
+    },
+    "g": {
+      "path": "M 2834.6 4641.3 L 2834.6 4535 L 2940.9 4535"
+    }
+  }, {
+    "id": 261,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.497"
+    },
+    "g": {
+      "path": "M 2870.1 4676.8 L 3118.1 4676.8"
+    }
+  }, {
+    "id": 260,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.490"
+    },
+    "g": {
+      "path": "M 3330.7 4676.8 L 3614.2 4676.8"
+    }
+  }, {
+    "id": 259,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.489"
+    },
+    "g": {
+      "path": "M 3330.7 4818.5 L 3614.2 4818.5"
+    }
+  }, {
+    "id": 258,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.449"
+    },
+    "g": {
+      "path": "M 4818.9 3826.4 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 257,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.448"
+    },
+    "g": {
+      "path": "M 4818.9 3968.1 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 256,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.446"
+    },
+    "g": {
+      "path": "M 4818.9 4393.3 L 4818.9 4322.4"
+    }
+  }, {
+    "id": 255,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.445"
+    },
+    "g": {
+      "path": "M 4110.2 4535 L 4216.5 4535 L 4216.5 4641.3"
+    }
+  }, {
+    "id": 254,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.444"
+    },
+    "g": {
+      "path": "M 4110.2 4393.3 L 4677.2 4393.3"
+    }
+  }, {
+    "id": 253,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.443"
+    },
+    "g": {
+      "path": "M 4110.2 4109.8 L 4216.5 4109.8 L 4216.5 4003.5"
+    }
+  }, {
+    "id": 252,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.442"
+    },
+    "g": {
+      "path": "M 4110.2 3826.4 L 4677.2 3826.4"
+    }
+  }, {
+    "id": 251,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.441"
+    },
+    "g": {
+      "path": "M 4181.1 3968.1 L 3773.6 3968.1"
+    }
+  }, {
+    "id": 250,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.440"
+    },
+    "g": {
+      "path": "M 3773.6 3826.4 L 4039.4 3826.4"
+    }
+  }, {
+    "id": 249,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.439"
+    },
+    "g": {
+      "path": "M 3330.7 3968.1 L 3614.2 3968.1"
+    }
+  }, {
+    "id": 248,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.438"
+    },
+    "g": {
+      "path": "M 2870.1 3968.1 L 3118.1 3968.1"
+    }
+  }, {
+    "id": 247,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.437"
+    },
+    "g": {
+      "path": "M 3330.7 3826.4 L 3614.2 3826.4"
+    }
+  }, {
+    "id": 246,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.436"
+    },
+    "g": {
+      "path": "M 3011.8 3826.4 L 3118.1 3826.4"
+    }
+  }, {
+    "id": 245,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.435"
+    },
+    "g": {
+      "path": "M 2444.9 3826.4 L 2940.9 3826.4"
+    }
+  }, {
+    "id": 244,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.434"
+    },
+    "g": {
+      "path": "M 2444.9 3968.1 L 2799.2 3968.1"
+    }
+  }, {
+    "id": 243,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.433"
+    },
+    "g": {
+      "path": "M 2976.4 3861.8 L 2976.4 4074.4"
+    }
+  }, {
+    "id": 242,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.432"
+    },
+    "g": {
+      "path": "M 4216.5 3542.9 L 4216.5 3932.7"
+    }
+  }, {
+    "id": 241,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.431"
+    },
+    "g": {
+      "path": "M 4252 3968.1 L 4677.2 3968.1"
+    }
+  }, {
+    "id": 240,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.430"
+    },
+    "g": {
+      "path": "M 3773.6 4109.8 L 4039.4 4109.8"
+    }
+  }, {
+    "id": 239,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.429"
+    },
+    "g": {
+      "path": "M 3330.7 4109.8 L 3614.2 4109.8"
+    }
+  }, {
+    "id": 238,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.428"
+    },
+    "g": {
+      "path": "M 3011.8 4109.8 L 3118.1 4109.8"
+    }
+  }, {
+    "id": 237,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.427"
+    },
+    "g": {
+      "path": "M 2444.9 4251.6 L 2940.9 4251.6"
+    }
+  }, {
+    "id": 236,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.426"
+    },
+    "g": {
+      "path": "M 3773.6 4393.3 L 4039.4 4393.3"
+    }
+  }, {
+    "id": 235,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.425"
+    },
+    "g": {
+      "path": "M 3330.7 4393.3 L 3614.2 4393.3"
+    }
+  }, {
+    "id": 234,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.424"
+    },
+    "g": {
+      "path": "M 3011.8 4393.3 L 3118.1 4393.3"
+    }
+  }, {
+    "id": 233,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.423"
+    },
+    "g": {
+      "path": "M 2444.9 4393.3 L 2940.9 4393.3"
+    }
+  }, {
+    "id": 232,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.422"
+    },
+    "g": {
+      "path": "M 3773.6 4535 L 4039.4 4535"
+    }
+  }, {
+    "id": 231,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.421"
+    },
+    "g": {
+      "path": "M 3330.7 4535 L 3614.2 4535"
+    }
+  }, {
+    "id": 230,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.420"
+    },
+    "g": {
+      "path": "M 3011.8 4535 L 3118.1 4535"
+    }
+  }, {
+    "id": 229,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.419"
+    },
+    "g": {
+      "path": "M 2444.9 4676.8 L 2799.2 4676.8"
+    }
+  }, {
+    "id": 228,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.418"
+    },
+    "g": {
+      "path": "M 2834.6 4003.5 L 2834.6 4109.8 L 2940.9 4109.8"
+    }
+  }, {
+    "id": 227,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.417"
+    },
+    "g": {
+      "path": "M 2976.4 4145.3 L 2976.4 4216.1"
+    }
+  }, {
+    "id": 226,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.416"
+    },
+    "g": {
+      "path": "M 2976.4 4428.7 L 2976.4 4499.6"
+    }
+  }, {
+    "id": 225,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.415"
+    },
+    "g": {
+      "path": "M 4074.8 3861.8 L 4074.8 4074.4"
+    }
+  }, {
+    "id": 224,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.414"
+    },
+    "g": {
+      "path": "M 4074.8 4287 L 4074.8 4357.9"
+    }
+  }, {
+    "id": 223,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.413"
+    },
+    "g": {
+      "path": "M 4074.8 4428.7 L 4074.8 4499.6"
+    }
+  }, {
+    "id": 222,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.412"
+    },
+    "g": {
+      "path": "M 2976.4 4287 L 2976.4 4357.9"
+    }
+  }, {
+    "id": 221,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.411"
+    },
+    "g": {
+      "path": "M 3011.8 4251.6 L 3118.1 4251.6"
+    }
+  }, {
+    "id": 220,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.410"
+    },
+    "g": {
+      "path": "M 3330.7 4251.6 L 3614.2 4251.6"
+    }
+  }, {
+    "id": 219,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.409"
+    },
+    "g": {
+      "path": "M 4818.9 3649.2 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 218,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.408"
+    },
+    "g": {
+      "path": "M 4818.9 3507.5 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 217,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.407"
+    },
+    "g": {
+      "path": "M 4818.9 3082.3 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 216,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.405"
+    },
+    "g": {
+      "path": "M 3773.6 3649.2 L 4039.4 3649.2"
+    }
+  }, {
+    "id": 215,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.404"
+    },
+    "g": {
+      "path": "M 3773.6 3082.3 L 4039.4 3082.3"
+    }
+  }, {
+    "id": 214,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.403"
+    },
+    "g": {
+      "path": "M 4110.2 3649.2 L 4677.2 3649.2"
+    }
+  }, {
+    "id": 213,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.402"
+    },
+    "g": {
+      "path": "M 4252 3507.5 L 4677.2 3507.5"
+    }
+  }, {
+    "id": 212,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.401"
+    },
+    "g": {
+      "path": "M 3773.6 3507.5 L 4181.1 3507.5"
+    }
+  }, {
+    "id": 211,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.400"
+    },
+    "g": {
+      "path": "M 4074.8 3401.2 L 4074.8 3613.8"
+    }
+  }, {
+    "id": 210,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.397"
+    },
+    "g": {
+      "path": "M 4110.2 3082.3 L 4677.2 3082.3"
+    }
+  }, {
+    "id": 209,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.396"
+    },
+    "g": {
+      "path": "M 4074.8 3046.9 L 4074.8 2976"
+    }
+  }, {
+    "id": 208,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.391"
+    },
+    "g": {
+      "path": "M 3011.8 3649.2 L 3118.1 3649.2"
+    }
+  }, {
+    "id": 207,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.390"
+    },
+    "g": {
+      "path": "M 2976.4 3401.2 L 2976.4 3613.8"
+    }
+  }, {
+    "id": 206,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.389"
+    },
+    "g": {
+      "path": "M 2444.9 3649.2 L 2940.9 3649.2"
+    }
+  }, {
+    "id": 205,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.386"
+    },
+    "g": {
+      "path": "M 2834.6 3472 L 2834.6 3365.7 L 2940.9 3365.7"
+    }
+  }, {
+    "id": 204,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.385"
+    },
+    "g": {
+      "path": "M 2870.1 3507.5 L 3118.1 3507.5"
+    }
+  }, {
+    "id": 203,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.378"
+    },
+    "g": {
+      "path": "M 3330.7 3507.5 L 3614.2 3507.5"
+    }
+  }, {
+    "id": 202,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.377"
+    },
+    "g": {
+      "path": "M 3330.7 3649.2 L 3614.2 3649.2"
+    }
+  }, {
+    "id": 201,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.333"
+    },
+    "g": {
+      "path": "M 4854.3 4322.4 L 5208.7 4322.4"
+    }
+  }, {
+    "id": 200,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.332"
+    },
+    "g": {
+      "path": "M 4818.9 2657.1 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 199,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.331"
+    },
+    "g": {
+      "path": "M 4818.9 2798.8 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 198,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.329"
+    },
+    "g": {
+      "path": "M 4818.9 3224 L 4818.9 3153.1"
+    }
+  }, {
+    "id": 197,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.328"
+    },
+    "g": {
+      "path": "M 4110.2 3365.7 L 4216.5 3365.7 L 4216.5 3472"
+    }
+  }, {
+    "id": 196,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.327"
+    },
+    "g": {
+      "path": "M 4110.2 3224 L 4677.2 3224"
+    }
+  }, {
+    "id": 195,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.326"
+    },
+    "g": {
+      "path": "M 4110.2 2940.6 L 4216.5 2940.6 L 4216.5 2834.3"
+    }
+  }, {
+    "id": 194,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.325"
+    },
+    "g": {
+      "path": "M 2303.1 2940.9 L 2303.1 2657.1"
+    }
+  }, {
+    "id": 193,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.324"
+    },
+    "g": {
+      "path": "M 4854.3 3153.1 L 5208.7 3153.1"
+    }
+  }, {
+    "id": 192,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.323"
+    },
+    "g": {
+      "path": "M 4110.2 2657.1 L 4677.2 2657.1"
+    }
+  }, {
+    "id": 191,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.322"
+    },
+    "g": {
+      "path": "M 4181.1 2798.8 L 3773.6 2798.8"
+    }
+  }, {
+    "id": 190,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.321"
+    },
+    "g": {
+      "path": "M 3773.6 2657.1 L 4039.4 2657.1"
+    }
+  }, {
+    "id": 189,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.320"
+    },
+    "g": {
+      "path": "M 3330.7 2798.8 L 3614.2 2798.8"
+    }
+  }, {
+    "id": 188,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.319"
+    },
+    "g": {
+      "path": "M 2870.1 2798.8 L 3118.1 2798.8"
+    }
+  }, {
+    "id": 187,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.318"
+    },
+    "g": {
+      "path": "M 3330.7 2657.1 L 3614.2 2657.1"
+    }
+  }, {
+    "id": 186,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.317"
+    },
+    "g": {
+      "path": "M 3011.8 2657.1 L 3118.1 2657.1"
+    }
+  }, {
+    "id": 185,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.316"
+    },
+    "g": {
+      "path": "M 2444.9 2657.1 L 2940.9 2657.1"
+    }
+  }, {
+    "id": 184,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.315"
+    },
+    "g": {
+      "path": "M 2444.9 2798.8 L 2799.2 2798.8"
+    }
+  }, {
+    "id": 183,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.314"
+    },
+    "g": {
+      "path": "M 2976.4 2692.5 L 2976.4 2905.1"
+    }
+  }, {
+    "id": 182,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.313"
+    },
+    "g": {
+      "path": "M 4216.5 4712.2 L 4216.5 4747.6 L 4322.8 4747.6 L 4322.8 2728 L 4216.5 2728 L 4216.5 2763.4"
+    }
+  }, {
+    "id": 181,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.312"
+    },
+    "g": {
+      "path": "M 4252 2798.8 L 4677.2 2798.8"
+    }
+  }, {
+    "id": 180,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.311"
+    },
+    "g": {
+      "path": "M 2303.1 2798.8 L 2303.1 2940.9"
+    }
+  }, {
+    "id": 179,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.310"
+    },
+    "g": {
+      "path": "M 3773.6 2940.6 L 4039.4 2940.6"
+    }
+  }, {
+    "id": 178,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.309"
+    },
+    "g": {
+      "path": "M 3330.7 2940.6 L 3614.2 2940.6"
+    }
+  }, {
+    "id": 177,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.308"
+    },
+    "g": {
+      "path": "M 3011.8 2940.6 L 3118.1 2940.6"
+    }
+  }, {
+    "id": 176,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.307"
+    },
+    "g": {
+      "path": "M 2444.9 3082.3 L 2940.9 3082.3"
+    }
+  }, {
+    "id": 175,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.306"
+    },
+    "g": {
+      "path": "M 3773.6 3224 L 4039.4 3224"
+    }
+  }, {
+    "id": 174,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.305"
+    },
+    "g": {
+      "path": "M 3330.7 3224 L 3614.2 3224"
+    }
+  }, {
+    "id": 173,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.304"
+    },
+    "g": {
+      "path": "M 3011.8 3224 L 3118.1 3224"
+    }
+  }, {
+    "id": 172,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.303"
+    },
+    "g": {
+      "path": "M 2444.9 3224 L 2940.9 3224"
+    }
+  }, {
+    "id": 171,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.302"
+    },
+    "g": {
+      "path": "M 3773.6 3365.7 L 4039.4 3365.7"
+    }
+  }, {
+    "id": 170,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.301"
+    },
+    "g": {
+      "path": "M 3330.7 3365.7 L 3614.2 3365.7"
+    }
+  }, {
+    "id": 169,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.300"
+    },
+    "g": {
+      "path": "M 3011.8 3365.7 L 3118.1 3365.7"
+    }
+  }, {
+    "id": 168,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.299"
+    },
+    "g": {
+      "path": "M 2444.9 3507.5 L 2799.2 3507.5"
+    }
+  }, {
+    "id": 167,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.298"
+    },
+    "g": {
+      "path": "M 2303.1 2940.9 L 2303.1 3082.3"
+    }
+  }, {
+    "id": 166,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.297"
+    },
+    "g": {
+      "path": "M 2303.1 3224 L 2303.1 2940.9"
+    }
+  }, {
+    "id": 165,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.296"
+    },
+    "g": {
+      "path": "M 2303.1 3507.5 L 2303.1 3738.2"
+    }
+  }, {
+    "id": 164,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.164"
+    },
+    "g": {
+      "path": "M 2834.6 2834.3 L 2834.6 2940.6 L 2940.9 2940.6"
+    }
+  }, {
+    "id": 163,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.163"
+    },
+    "g": {
+      "path": "M 2976.4 2976 L 2976.4 3046.9"
+    }
+  }, {
+    "id": 162,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.162"
+    },
+    "g": {
+      "path": "M 2976.4 3259.4 L 2976.4 3330.3"
+    }
+  }, {
+    "id": 161,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.161"
+    },
+    "g": {
+      "path": "M 4074.8 2692.5 L 4074.8 2905.1"
+    }
+  }, {
+    "id": 160,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.160"
+    },
+    "g": {
+      "path": "M 4074.8 3117.7 L 4074.8 3188.6"
+    }
+  }, {
+    "id": 159,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.159"
+    },
+    "g": {
+      "path": "M 4074.8 3259.4 L 4074.8 3330.3"
+    }
+  }, {
+    "id": 158,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.158"
+    },
+    "g": {
+      "path": "M 4074.8 2621.7 L 4074.8 2586.5 L 4428.8 2586.5"
+    }
+  }, {
+    "id": 157,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.157"
+    },
+    "g": {
+      "path": "M 2621.7 2586.5 L 2976.4 2586.5 L 2976.4 2621.7"
+    }
+  }, {
+    "id": 156,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.156"
+    },
+    "g": {
+      "path": "M 2976.4 3117.7 L 2976.4 3188.6"
+    }
+  }, {
+    "id": 155,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.155"
+    },
+    "g": {
+      "path": "M 3011.8 3082.3 L 3118.1 3082.3"
+    }
+  }, {
+    "id": 154,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.154"
+    },
+    "g": {
+      "path": "M 3330.7 3082.3 L 3614.2 3082.3"
+    }
+  }, {
+    "id": 153,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.153"
+    },
+    "g": {
+      "path": "M 2303.1 2444.5 L 2303.1 2161.4"
+    }
+  }, {
+    "id": 152,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.152"
+    },
+    "g": {
+      "path": "M 2303.1 2019.3 L 2303.1 2161.4"
+    }
+  }, {
+    "id": 151,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.151"
+    },
+    "g": {
+      "path": "M 2303.1 2302.8 L 2303.1 2161.4"
+    }
+  }, {
+    "id": 150,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.150"
+    },
+    "g": {
+      "path": "M 2303.1 1877.6 L 2303.1 2161.4"
+    }
+  }, {
+    "id": 149,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.149"
+    },
+    "g": {
+      "path": "M 2303.1 1594.1 L 2303.1 1364.2"
+    }
+  }, {
+    "id": 148,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.148"
+    },
+    "g": {
+      "path": "M 2303.1 1452.4 L 2303.1 1364.2"
+    }
+  }, {
+    "id": 146,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.146"
+    },
+    "g": {
+      "path": "M 2834.6 389.4 L 2834.6 353.9 L 2728.3 353.9 L 2728.3 2373.6 L 2834.6 2373.6 L 2834.6 2338.2"
+    }
+  }, {
+    "id": 145,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.145"
+    },
+    "g": {
+      "path": "M 2834.6 1168.9 L 2834.6 1558.7"
+    }
+  }, {
+    "id": 144,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.144"
+    },
+    "g": {
+      "path": "M 4074.8 1310.6 L 4074.8 1416.9"
+    }
+  }, {
+    "id": 143,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.143"
+    },
+    "g": {
+      "path": "M 2976.4 1310.6 L 2976.4 1416.9"
+    }
+  }, {
+    "id": 142,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.142"
+    },
+    "g": {
+      "path": "M 4818.9 2444.5 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 141,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.141"
+    },
+    "g": {
+      "path": "M 4818.9 2302.8 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 140,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.140"
+    },
+    "g": {
+      "path": "M 4818.9 1877.6 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 139,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.139"
+    },
+    "g": {
+      "path": "M 3773.6 2444.5 L 4039.4 2444.5"
+    }
+  }, {
+    "id": 138,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.138"
+    },
+    "g": {
+      "path": "M 3773.6 1877.6 L 4039.4 1877.6"
+    }
+  }, {
+    "id": 137,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.137"
+    },
+    "g": {
+      "path": "M 4110.2 2444.5 L 4677.2 2444.5"
+    }
+  }, {
+    "id": 136,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.136"
+    },
+    "g": {
+      "path": "M 4252 2302.8 L 4677.2 2302.8"
+    }
+  }, {
+    "id": 135,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.135"
+    },
+    "g": {
+      "path": "M 3773.6 2302.8 L 4181.1 2302.8"
+    }
+  }, {
+    "id": 134,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.134"
+    },
+    "g": {
+      "path": "M 4074.8 2196.5 L 4074.8 2409.1"
+    }
+  }, {
+    "id": 133,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.133"
+    },
+    "g": {
+      "path": "M 4110.2 1877.6 L 4677.2 1877.6"
+    }
+  }, {
+    "id": 132,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.132"
+    },
+    "g": {
+      "path": "M 4074.8 1842.1 L 4074.8 1771.3"
+    }
+  }, {
+    "id": 131,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.131"
+    },
+    "g": {
+      "path": "M 3011.8 2444.5 L 3118.1 2444.5"
+    }
+  }, {
+    "id": 130,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.130"
+    },
+    "g": {
+      "path": "M 2976.4 2196.5 L 2976.4 2409.1"
+    }
+  }, {
+    "id": 129,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.129"
+    },
+    "g": {
+      "path": "M 2444.9 2444.5 L 2940.9 2444.5"
+    }
+  }, {
+    "id": 128,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.128"
+    },
+    "g": {
+      "path": "M 2834.6 2267.3 L 2834.6 2161 L 2940.9 2161"
+    }
+  }, {
+    "id": 127,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.127"
+    },
+    "g": {
+      "path": "M 2870.1 2302.8 L 3118.1 2302.8"
+    }
+  }, {
+    "id": 126,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.126"
+    },
+    "g": {
+      "path": "M 3330.7 2302.8 L 3614.2 2302.8"
+    }
+  }, {
+    "id": 125,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.125"
+    },
+    "g": {
+      "path": "M 3330.7 2444.5 L 3614.2 2444.5"
+    }
+  }, {
+    "id": 124,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.124"
+    },
+    "g": {
+      "path": "M 4818.9 1452.4 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 123,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.123"
+    },
+    "g": {
+      "path": "M 4818.9 1594.1 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 122,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.122"
+    },
+    "g": {
+      "path": "M 4818.9 2019.3 L 4818.9 1948.4"
+    }
+  }, {
+    "id": 121,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.121"
+    },
+    "g": {
+      "path": "M 4110.2 2161 L 4216.5 2161 L 4216.5 2267.3"
+    }
+  }, {
+    "id": 120,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.120"
+    },
+    "g": {
+      "path": "M 4110.2 2019.3 L 4677.2 2019.3"
+    }
+  }, {
+    "id": 119,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.119"
+    },
+    "g": {
+      "path": "M 4110.2 1735.8 L 4216.5 1735.8 L 4216.5 1629.5"
+    }
+  }, {
+    "id": 118,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.118"
+    },
+    "g": {
+      "path": "M 4110.2 1452.4 L 4677.2 1452.4"
+    }
+  }, {
+    "id": 117,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.117"
+    },
+    "g": {
+      "path": "M 4181.1 1594.1 L 3773.6 1594.1"
+    }
+  }, {
+    "id": 116,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.116"
+    },
+    "g": {
+      "path": "M 3773.6 1452.4 L 4039.4 1452.4"
+    }
+  }, {
+    "id": 115,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.115"
+    },
+    "g": {
+      "path": "M 3330.7 1594.1 L 3614.2 1594.1"
+    }
+  }, {
+    "id": 114,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.114"
+    },
+    "g": {
+      "path": "M 2870.1 1594.1 L 3118.1 1594.1"
+    }
+  }, {
+    "id": 113,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.113"
+    },
+    "g": {
+      "path": "M 3330.7 1452.4 L 3614.2 1452.4"
+    }
+  }, {
+    "id": 112,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.112"
+    },
+    "g": {
+      "path": "M 3011.8 1452.4 L 3118.1 1452.4"
+    }
+  }, {
+    "id": 111,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.111"
+    },
+    "g": {
+      "path": "M 2444.9 1452.4 L 2940.9 1452.4"
+    }
+  }, {
+    "id": 110,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.110"
+    },
+    "g": {
+      "path": "M 2444.9 1594.1 L 2799.2 1594.1"
+    }
+  }, {
+    "id": 109,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.109"
+    },
+    "g": {
+      "path": "M 2976.4 1487.8 L 2976.4 1700.4"
+    }
+  }, {
+    "id": 108,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.108"
+    },
+    "g": {
+      "path": "M 4216.5 1168.9 L 4216.5 1558.7"
+    }
+  }, {
+    "id": 107,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.107"
+    },
+    "g": {
+      "path": "M 4252 1594.1 L 4677.2 1594.1"
+    }
+  }, {
+    "id": 106,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.106"
+    },
+    "g": {
+      "path": "M 3773.6 1735.8 L 4039.4 1735.8"
+    }
+  }, {
+    "id": 105,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.105"
+    },
+    "g": {
+      "path": "M 3330.7 1735.8 L 3614.2 1735.8"
+    }
+  }, {
+    "id": 104,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.104"
+    },
+    "g": {
+      "path": "M 3011.8 1735.8 L 3118.1 1735.8"
+    }
+  }, {
+    "id": 103,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.103"
+    },
+    "g": {
+      "path": "M 2444.9 1877.6 L 2940.9 1877.6"
+    }
+  }, {
+    "id": 102,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.102"
+    },
+    "g": {
+      "path": "M 3773.6 2019.3 L 4039.4 2019.3"
+    }
+  }, {
+    "id": 101,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.101"
+    },
+    "g": {
+      "path": "M 3330.7 2019.3 L 3614.2 2019.3"
+    }
+  }, {
+    "id": 100,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.100"
+    },
+    "g": {
+      "path": "M 3011.8 2019.3 L 3118.1 2019.3"
+    }
+  }, {
+    "id": 99,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.99"
+    },
+    "g": {
+      "path": "M 2444.9 2019.3 L 2940.9 2019.3"
+    }
+  }, {
+    "id": 98,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.98"
+    },
+    "g": {
+      "path": "M 3773.6 2161 L 4039.4 2161"
+    }
+  }, {
+    "id": 97,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.97"
+    },
+    "g": {
+      "path": "M 3330.7 2161 L 3614.2 2161"
+    }
+  }, {
+    "id": 96,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.96"
+    },
+    "g": {
+      "path": "M 3011.8 2161 L 3118.1 2161"
+    }
+  }, {
+    "id": 95,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.95"
+    },
+    "g": {
+      "path": "M 2444.9 2302.8 L 2799.2 2302.8"
+    }
+  }, {
+    "id": 94,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.94"
+    },
+    "g": {
+      "path": "M 2834.6 1629.5 L 2834.6 1735.8 L 2940.9 1735.8"
+    }
+  }, {
+    "id": 93,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.93"
+    },
+    "g": {
+      "path": "M 2976.4 1771.3 L 2976.4 1842.1"
+    }
+  }, {
+    "id": 92,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.92"
+    },
+    "g": {
+      "path": "M 2976.4 2054.7 L 2976.4 2125.6"
+    }
+  }, {
+    "id": 91,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.91"
+    },
+    "g": {
+      "path": "M 4074.8 1487.8 L 4074.8 1700.4"
+    }
+  }, {
+    "id": 90,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.90"
+    },
+    "g": {
+      "path": "M 4074.8 1913 L 4074.8 1983.9"
+    }
+  }, {
+    "id": 89,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.89"
+    },
+    "g": {
+      "path": "M 4074.8 2054.7 L 4074.8 2125.6"
+    }
+  }, {
+    "id": 88,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.88"
+    },
+    "g": {
+      "path": "M 2976.4 1913 L 2976.4 1983.9"
+    }
+  }, {
+    "id": 87,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.87"
+    },
+    "g": {
+      "path": "M 3011.8 1877.6 L 3118.1 1877.6"
+    }
+  }, {
+    "id": 86,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.86"
+    },
+    "g": {
+      "path": "M 3330.7 1877.6 L 3614.2 1877.6"
+    }
+  }, {
+    "id": 85,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.85"
+    },
+    "g": {
+      "path": "M 4818.9 1275.2 L 4818.9 779.1"
+    }
+  }, {
+    "id": 84,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.84"
+    },
+    "g": {
+      "path": "M 4818.9 1133.5 L 4818.9 779.1"
+    }
+  }, {
+    "id": 83,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.83"
+    },
+    "g": {
+      "path": "M 4818.9 708.3 L 4818.9 779.1"
+    }
+  }, {
+    "id": 82,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.82"
+    },
+    "g": {
+      "path": "M 3773.6 1275.2 L 4039.4 1275.2"
+    }
+  }, {
+    "id": 81,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.81"
+    },
+    "g": {
+      "path": "M 3773.6 708.3 L 4039.4 708.3"
+    }
+  }, {
+    "id": 80,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.80"
+    },
+    "g": {
+      "path": "M 4110.2 1275.2 L 4677.2 1275.2"
+    }
+  }, {
+    "id": 79,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.79"
+    },
+    "g": {
+      "path": "M 4252 1133.5 L 4677.2 1133.5"
+    }
+  }, {
+    "id": 78,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.78"
+    },
+    "g": {
+      "path": "M 3773.6 1133.5 L 4181.1 1133.5"
+    }
+  }, {
+    "id": 77,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.77"
+    },
+    "g": {
+      "path": "M 4074.8 1027.2 L 4074.8 1239.8"
+    }
+  }, {
+    "id": 76,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.76"
+    },
+    "g": {
+      "path": "M 4110.2 708.3 L 4677.2 708.3"
+    }
+  }, {
+    "id": 75,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.75"
+    },
+    "g": {
+      "path": "M 4074.8 672.8 L 4074.8 602"
+    }
+  }, {
+    "id": 74,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.74"
+    },
+    "g": {
+      "path": "M 3011.8 1275.2 L 3118.1 1275.2"
+    }
+  }, {
+    "id": 73,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.73"
+    },
+    "g": {
+      "path": "M 2976.4 1027.2 L 2976.4 1239.8"
+    }
+  }, {
+    "id": 72,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.72"
+    },
+    "g": {
+      "path": "M 2444.9 1275.2 L 2940.9 1275.2"
+    }
+  }, {
+    "id": 71,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.71"
+    },
+    "g": {
+      "path": "M 2834.6 1098 L 2834.6 991.7 L 2940.9 991.7"
+    }
+  }, {
+    "id": 70,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.70"
+    },
+    "g": {
+      "path": "M 2870.1 1133.5 L 3118.1 1133.5"
+    }
+  }, {
+    "id": 69,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.69"
+    },
+    "g": {
+      "path": "M 3330.7 1133.5 L 3614.2 1133.5"
+    }
+  }, {
+    "id": 68,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.68"
+    },
+    "g": {
+      "path": "M 3330.7 1275.2 L 3614.2 1275.2"
+    }
+  }, {
+    "id": 67,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.67"
+    },
+    "g": {
+      "path": "M 1878 3738.1 L 1984.3 3738.1 L 1984.3 4535.4 L 2055.1 4535.4"
+    }
+  }, {
+    "id": 66,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.66"
+    },
+    "g": {
+      "path": "M 4854.3 1948.4 L 4872 1948.4 L 4872 1948.7 L 5208.7 1948.7"
+    }
+  }, {
+    "id": 65,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.65"
+    },
+    "g": {
+      "path": "M 4818.9 283.1 L 4818.9 779.1"
+    }
+  }, {
+    "id": 64,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.64"
+    },
+    "g": {
+      "path": "M 4818.9 424.8 L 4818.9 779.1"
+    }
+  }, {
+    "id": 63,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.63"
+    },
+    "g": {
+      "path": "M 4818.9 850 L 4818.9 779.1"
+    }
+  }, {
+    "id": 62,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.62"
+    },
+    "g": {
+      "path": "M 4110.2 991.7 L 4216.5 991.7 L 4216.5 1098"
+    }
+  }, {
+    "id": 61,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.61"
+    },
+    "g": {
+      "path": "M 4110.2 850 L 4677.2 850"
+    }
+  }, {
+    "id": 60,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.60"
+    },
+    "g": {
+      "path": "M 4110.2 566.5 L 4216.5 566.5 L 4216.5 460.2"
+    }
+  }, {
+    "id": 59,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.59"
+    },
+    "g": {
+      "path": "M 2303.1 566.7 L 2303.1 283.1"
+    }
+  }, {
+    "id": 58,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.58"
+    },
+    "g": {
+      "path": "M 4854.3 779.1 L 4872 779.1 L 4872 779.4 L 5208.7 779.4"
+    }
+  }, {
+    "id": 57,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.57"
+    },
+    "g": {
+      "path": "M 4110.2 283.1 L 4677.2 283.1"
+    }
+  }, {
+    "id": 56,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.56"
+    },
+    "g": {
+      "path": "M 4181.1 424.8 L 3773.6 424.8"
+    }
+  }, {
+    "id": 55,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.55"
+    },
+    "g": {
+      "path": "M 3773.6 283.1 L 4039.4 283.1"
+    }
+  }, {
+    "id": 54,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.54"
+    },
+    "g": {
+      "path": "M 3330.7 424.8 L 3614.2 424.8"
+    }
+  }, {
+    "id": 53,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.53"
+    },
+    "g": {
+      "path": "M 2870.1 424.8 L 3118.1 424.8"
+    }
+  }, {
+    "id": 52,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.52"
+    },
+    "g": {
+      "path": "M 3330.7 283.1 L 3614.2 283.1"
+    }
+  }, {
+    "id": 51,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.51"
+    },
+    "g": {
+      "path": "M 3011.8 283.1 L 3118.1 283.1"
+    }
+  }, {
+    "id": 50,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector"
+    },
+    "g": {
+      "path": "M 779.5 1364.1 L 850.4 1364.1"
+    }
+  }, {
+    "id": 49,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.49"
+    },
+    "g": {
+      "path": "M 2444.9 283.1 L 2940.9 283.1"
+    }
+  }, {
+    "id": 48,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.48"
+    },
+    "g": {
+      "path": "M 2444.9 424.8 L 2799.2 424.8"
+    }
+  }, {
+    "id": 47,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.47"
+    },
+    "g": {
+      "path": "M 2976.4 318.5 L 2976.4 531.1"
+    }
+  }, {
+    "id": 46,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.46"
+    },
+    "g": {
+      "path": "M 4216.5 2338.2 L 4216.5 2373.6 L 4322.8 2373.6 L 4322.8 353.9 L 4216.5 353.9 L 4216.5 389.4"
+    }
+  }, {
+    "id": 45,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.45"
+    },
+    "g": {
+      "path": "M 4252 424.8 L 4677.2 424.8"
+    }
+  }, {
+    "id": 44,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.44"
+    },
+    "g": {
+      "path": "M 885.8 1328.6 L 885.8 1133.8 L 1239.9 1133.8"
+    }
+  }, {
+    "id": 43,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.43"
+    },
+    "g": {
+      "path": "M 921.3 1364.1 L 1239.9 1364.1"
+    }
+  }, {
+    "id": 42,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.42"
+    },
+    "g": {
+      "path": "M 885.8 3773.5 L 885.8 3933 L 1239.9 3933"
+    }
+  }, {
+    "id": 41,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.41"
+    },
+    "g": {
+      "path": "M 1807.1 1364.1 L 1683.1 1364.1"
+    }
+  }, {
+    "id": 40,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.40"
+    },
+    "g": {
+      "path": "M 1683.1 1133.8 L 1842.5 1133.8 L 1842.5 1328.6"
+    }
+  }, {
+    "id": 39,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.39"
+    },
+    "g": {
+      "path": "M 1683.1 3933 L 1842.5 3933 L 1842.5 3773.5"
+    }
+  }, {
+    "id": 38,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.1379"
+    },
+    "g": {
+      "path": "M 921.3 3738.1 L 1239.9 3738.1"
+    }
+  }, {
+    "id": 37,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.37"
+    },
+    "g": {
+      "path": "M 1683.1 3738.1 L 1807.1 3738.1"
+    }
+  }, {
+    "id": 36,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.36"
+    },
+    "g": {
+      "path": "M 779.5 3738.2 L 797.2 3738.2 L 797.2 3738.1 L 850.4 3738.1"
+    }
+  }, {
+    "id": 35,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.35"
+    },
+    "g": {
+      "path": "M 2303.1 424.8 L 2303.1 566.7"
+    }
+  }, {
+    "id": 34,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.34"
+    },
+    "g": {
+      "path": "M 1878 1364.1 L 2019.7 1364.1 L 2019.7 566.7 L 2267.7 566.7"
+    }
+  }, {
+    "id": 33,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.33"
+    },
+    "g": {
+      "path": "M 3773.6 566.5 L 4039.4 566.5"
+    }
+  }, {
+    "id": 32,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.32"
+    },
+    "g": {
+      "path": "M 3330.7 566.5 L 3614.2 566.5"
+    }
+  }, {
+    "id": 31,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.31"
+    },
+    "g": {
+      "path": "M 3011.8 566.5 L 3118.1 566.5"
+    }
+  }, {
+    "id": 30,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.30"
+    },
+    "g": {
+      "path": "M 2444.9 708.3 L 2940.9 708.3"
+    }
+  }, {
+    "id": 29,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.29"
+    },
+    "g": {
+      "path": "M 3773.6 850 L 4039.4 850"
+    }
+  }, {
+    "id": 28,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.28"
+    },
+    "g": {
+      "path": "M 3330.7 850 L 3614.2 850"
+    }
+  }, {
+    "id": 27,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.27"
+    },
+    "g": {
+      "path": "M 3011.8 850 L 3118.1 850"
+    }
+  }, {
+    "id": 26,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.26"
+    },
+    "g": {
+      "path": "M 2444.9 850 L 2940.9 850"
+    }
+  }, {
+    "id": 25,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.25"
+    },
+    "g": {
+      "path": "M 3773.6 991.7 L 4039.4 991.7"
+    }
+  }, {
+    "id": 24,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.24"
+    },
+    "g": {
+      "path": "M 3330.7 991.7 L 3614.2 991.7"
+    }
+  }, {
+    "id": 23,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.23"
+    },
+    "g": {
+      "path": "M 3011.8 991.7 L 3118.1 991.7"
+    }
+  }, {
+    "id": 22,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.22"
+    },
+    "g": {
+      "path": "M 2444.9 1133.5 L 2799.2 1133.5"
+    }
+  }, {
+    "id": 21,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.21"
+    },
+    "g": {
+      "path": "M 2303.1 566.7 L 2303.1 708.3"
+    }
+  }, {
+    "id": 20,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.20"
+    },
+    "g": {
+      "path": "M 2303.1 850 L 2303.1 566.7"
+    }
+  }, {
+    "id": 18,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.18"
+    },
+    "g": {
+      "path": "M 2834.6 460.2 L 2834.6 566.5 L 2940.9 566.5"
+    }
+  }, {
+    "id": 17,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.17"
+    },
+    "g": {
+      "path": "M 2976.4 602 L 2976.4 672.8"
+    }
+  }, {
+    "id": 16,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.16"
+    },
+    "g": {
+      "path": "M 2976.4 885.4 L 2976.4 956.3"
+    }
+  }, {
+    "id": 15,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.15"
+    },
+    "g": {
+      "path": "M 4074.8 318.5 L 4074.8 531.1"
+    }
+  }, {
+    "id": 14,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.14"
+    },
+    "g": {
+      "path": "M 4074.8 743.7 L 4074.8 814.6"
+    }
+  }, {
+    "id": 13,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.13"
+    },
+    "g": {
+      "path": "M 4074.8 885.4 L 4074.8 956.3"
+    }
+  }, {
+    "id": 12,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.12"
+    },
+    "g": {
+      "path": "M 4074.8 247.6 L 4074.8 212.5 L 4358 212.5"
+    }
+  }, {
+    "id": 11,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.11"
+    },
+    "g": {
+      "path": "M 1346.2 1133.8 L 1576.8 1133.8"
+    }
+  }, {
+    "id": 10,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.10"
+    },
+    "g": {
+      "path": "M 1346.2 1364.1 L 1576.8 1364.1"
+    }
+  }, {
+    "id": 9,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.9"
+    },
+    "g": {
+      "path": "M 1346.2 3738.1 L 1576.8 3738.1"
+    }
+  }, {
+    "id": 8,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.8"
+    },
+    "g": {
+      "path": "M 1346.2 3933 L 1576.8 3933"
+    }
+  }, {
+    "id": 7,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.7"
+    },
+    "g": {
+      "path": "M 885.8 1399.5 L 885.8 1878 L 957 1878"
+    }
+  }, {
+    "id": 6,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.6"
+    },
+    "g": {
+      "path": "M 1842.5 1399.5 L 1842.5 1736.2"
+    }
+  }, {
+    "id": 5,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.5"
+    },
+    "g": {
+      "path": "M 2692.6 212.5 L 2976.4 212.5 L 2976.4 247.6"
+    }
+  }, {
+    "id": 4,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.4"
+    },
+    "g": {
+      "path": "M 2976.4 743.7 L 2976.4 814.6"
+    }
+  }, {
+    "id": 3,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.3"
+    },
+    "g": {
+      "path": "M 3011.8 708.3 L 3118.1 708.3"
+    }
+  }, {
+    "id": 2,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.2"
+    },
+    "g": {
+      "path": "M 3330.7 708.3 L 3614.2 708.3"
+    }
+  }, {
+    "id": 550,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector"
+    },
+    "g": {
+      "path": "M 3472.4 354.3 L 3507.9 354.3 L 3507.9 336.2 L 3614.2 336.2"
+    }
+  }, {
+    "id": 551,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.551"
+    },
+    "g": {
+      "path": "M 3614.2 478 L 3472.4 478 L 3472.4 354.3 L 3472.4 354.3"
+    }
+  }, {
+    "id": 19,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.19"
+    },
+    "g": {
+      "path": "M 2303.1 1133.5 L 2303.1 1364.2"
+    }
+  }, {
+    "id": 584,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.584"
+    },
+    "g": {
+      "path": "M 1878 1913.4 L 2090.6 1913.4 L 2090.6 2161.4 L 2267.7 2161.4"
+    }
+  }, {
+    "id": 587,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.587"
+    },
+    "g": {
+      "path": "M 1878 2055.1 L 1984.3 2055.1 L 1984.3 2940.9 L 2055.1 2940.9"
+    }
+  }, {
+    "id": 596,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.596"
+    },
+    "g": {
+      "path": "M 1878.3 3543.3 L 1984.3 3543.3"
+    }
+  }, {
+    "id": 603,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.603"
+    },
+    "g": {
+      "path": "M 1629.9 1807.1 L 1629.9 1842.5 L 1488.2 1842.5 L 1488.2 2232.3"
+    }
+  }, {
+    "id": 607,
+    "type": "connector",
+    "names": {
+      "visio": "Timing connector.607"
+    },
+    "g": {
+      "path": "M 1630.2 3578.7 L 1630.2 3614.2 L 1488.2 3614.2 L 1488.2 3366.1 L 1452.8 3366.1"
+    }
+  }, {
+    "id": 611,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.611"
+    },
+    "g": {
+      "path": "M 779.5 2444.9 L 779.5 2480.3 L 885.8 2480.3 L 885.8 3507.9"
+    }
+  }, {
+    "id": 553,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.553"
+    },
+    "g": {
+      "path": "M 3614.2 619.7 L 3596.5 616.5 L 3503.4 616.5 L 3503.4 637.8 L 3472.4 637.8"
+    }
+  }, {
+    "id": 612,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.612"
+    },
+    "g": {
+      "path": "M 3614.2 761.4 L 3472.4 761.4 L 3472.4 637.8"
+    }
+  }, {
+    "id": 619,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.619"
+    },
+    "g": {
+      "path": "M 3614.2 903.1 L 3596.5 900 L 3503.4 900 L 3503.4 921.3 L 3472.4 921.3"
+    }
+  }, {
+    "id": 620,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.620"
+    },
+    "g": {
+      "path": "M 3614.2 1044.9 L 3472.4 1044.9 L 3472.4 921.3"
+    }
+  }, {
+    "id": 621,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.621"
+    },
+    "g": {
+      "path": "M 3614.2 1186.6 L 3596.5 1183.5 L 3503.4 1183.5 L 3503.4 1204.7 L 3472.4 1204.7"
+    }
+  }, {
+    "id": 622,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.622"
+    },
+    "g": {
+      "path": "M 3614.2 1328.3 L 3472.4 1328.3 L 3472.4 1204.7"
+    }
+  }, {
+    "id": 623,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.623"
+    },
+    "g": {
+      "path": "M 3614.2 1505.5 L 3596.5 1502.4 L 3503.4 1502.4 L 3503.4 1523.6 L 3472.4 1523.6"
+    }
+  }, {
+    "id": 624,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.624"
+    },
+    "g": {
+      "path": "M 3614.2 1647.2 L 3472.4 1647.2 L 3472.4 1523.6"
+    }
+  }, {
+    "id": 625,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.625"
+    },
+    "g": {
+      "path": "M 3614.2 1789 L 3596.5 1792.9 L 3503.4 1792.9 L 3503.4 1807.1 L 3472.4 1807.1"
+    }
+  }, {
+    "id": 626,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.626"
+    },
+    "g": {
+      "path": "M 3614.2 1930.7 L 3472.4 1930.7 L 3472.4 1807.1"
+    }
+  }, {
+    "id": 627,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.627"
+    },
+    "g": {
+      "path": "M 3614.2 2072.4 L 3596.5 2076.4 L 3503.4 2076.4 L 3503.4 2090.6 L 3472.4 2090.6"
+    }
+  }, {
+    "id": 628,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.628"
+    },
+    "g": {
+      "path": "M 3614.2 2214.2 L 3472.4 2214.2 L 3472.4 2090.6"
+    }
+  }, {
+    "id": 629,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.629"
+    },
+    "g": {
+      "path": "M 3614.2 2355.9 L 3596.5 2352.8 L 3503.4 2352.8 L 3503.4 2374 L 3472.4 2374"
+    }
+  }, {
+    "id": 630,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.630"
+    },
+    "g": {
+      "path": "M 3614.2 2497.6 L 3472.4 2497.6 L 3472.4 2374"
+    }
+  }, {
+    "id": 631,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.631"
+    },
+    "g": {
+      "path": "M 3472.4 2728.3 L 3507.9 2728.3 L 3507.9 2710.2 L 3614.2 2710.2"
+    }
+  }, {
+    "id": 632,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.632"
+    },
+    "g": {
+      "path": "M 3614.2 2852 L 3472.4 2852 L 3472.4 2728.3"
+    }
+  }, {
+    "id": 635,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.635"
+    },
+    "g": {
+      "path": "M 3614.2 2993.7 L 3472.4 2993.7 L 3472.4 3011.8"
+    }
+  }, {
+    "id": 636,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.636"
+    },
+    "g": {
+      "path": "M 3614.2 3135.4 L 3472.4 3135.4 L 3472.4 3011.8"
+    }
+  }, {
+    "id": 643,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.643"
+    },
+    "g": {
+      "path": "M 3614.2 3277.2 L 3472.4 3277.2 L 3472.4 3295.3"
+    }
+  }, {
+    "id": 644,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.644"
+    },
+    "g": {
+      "path": "M 3614.2 3418.9 L 3472.4 3418.9 L 3472.4 3295.3"
+    }
+  }, {
+    "id": 645,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.645"
+    },
+    "g": {
+      "path": "M 3614.2 3560.6 L 3472.4 3560.6 L 3472.4 3578.7"
+    }
+  }, {
+    "id": 646,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.646"
+    },
+    "g": {
+      "path": "M 3614.2 3702.4 L 3472.4 3702.4 L 3472.4 3578.7"
+    }
+  }, {
+    "id": 647,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.647"
+    },
+    "g": {
+      "path": "M 3614.2 3879.5 L 3472.4 3879.5 L 3472.4 3897.6"
+    }
+  }, {
+    "id": 648,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.648"
+    },
+    "g": {
+      "path": "M 3614.2 4021.3 L 3472.4 4021.3 L 3472.4 3897.6"
+    }
+  }, {
+    "id": 649,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.649"
+    },
+    "g": {
+      "path": "M 3614.2 4163 L 3472.4 4163 L 3472.4 4181.1"
+    }
+  }, {
+    "id": 650,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.650"
+    },
+    "g": {
+      "path": "M 3614.2 4304.7 L 3472.4 4304.7 L 3472.4 4181.1"
+    }
+  }, {
+    "id": 651,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.651"
+    },
+    "g": {
+      "path": "M 3614.2 4446.5 L 3472.4 4446.5 L 3472.4 4464.6"
+    }
+  }, {
+    "id": 652,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.652"
+    },
+    "g": {
+      "path": "M 3614.2 4588.2 L 3472.4 4588.2 L 3472.4 4464.6"
+    }
+  }, {
+    "id": 653,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.653"
+    },
+    "g": {
+      "path": "M 3614.2 4729.9 L 3472.4 4729.9 L 3472.4 4748"
+    }
+  }, {
+    "id": 654,
+    "type": "connector",
+    "names": {
+      "visio": "Electrical connector.654"
+    },
+    "g": {
+      "path": "M 3614.2 4871.7 L 3472.4 4871.7 L 3472.4 4748"
+    }
+  }, {
+    "id": 303,
+    "type": "ant rx",
+    "names": {
+      "visio": "Ant RX",
+      "scc": "RX1",
+      "csc": "1RX"
+    },
+    "g": {
+      "trans": [566.9, 1204.6],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [50]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 304,
+    "type": "channel",
+    "names": {
+      "visio": "Channel",
+      "scc": "A1",
+      "csc": "1A"
+    },
+    "g": {
+      "trans": [2303.1, 229.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [59],
+      "C2": [49]
+    }
+  }, {
+    "id": 305,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP",
+      "scc": "CS1",
+      "csc": "1CS"
+    },
+    "g": {
+      "trans": [3118.1, 203.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [51],
+      "C2": [52]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS001"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM01"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG01", "CSH01"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU01"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 306,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA",
+      "scc": "S1",
+      "csc": "1S"
+    },
+    "g": {
+      "trans": [3614.2, 203.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [52],
+      "C2": [55],
+      "CE": [550]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS001"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 308,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.14",
+      "scc": "CS2",
+      "csc": "2CS"
+    },
+    "g": {
+      "trans": [3118.1, 345.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [53],
+      "C2": [54]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS002"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM02"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG02", "CSH02"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU02"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 309,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.15",
+      "scc": "S2",
+      "csc": "2S"
+    },
+    "g": {
+      "trans": [3614.2, 345.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [54],
+      "C2": [56],
+      "CE": [551]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 311,
+    "type": "filter",
+    "names": {
+      "visio": "Path",
+      "scc": "A1",
+      "csc": "1A"
+    },
+    "g": {
+      "trans": [4677.2, 247.6],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [57],
+      "C2": [65]
+    },
+    "pass": ["A1"],
+    "expected_whitelist": []
+  }, {
+    "id": 312,
+    "type": "ant tx",
+    "names": {
+      "visio": "Ant TX.34",
+      "scc": "TX1",
+      "csc": "1TX"
+    },
+    "g": {
+      "trans": [5208.7, 620],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [58]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 313,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch"
+    },
+    "g": {
+      "trans": [2940.9, 247.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [49],
+      "C2": [5],
+      "C3": [51],
+      "C4": [47]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS03"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 314,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.38"
+    },
+    "g": {
+      "trans": [2799.2, 389.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [48],
+      "C2": [146],
+      "C3": [53],
+      "C4": [18]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS05"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 315,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.42"
+    },
+    "g": {
+      "trans": [4039.4, 247.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [55],
+      "C2": [12],
+      "C3": [57],
+      "C4": [15]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS04"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 316,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.43"
+    },
+    "g": {
+      "trans": [4181.1, 389.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [56],
+      "C2": [46],
+      "C3": [45],
+      "C4": [60]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS06"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 317,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.11",
+      "scc": "A2",
+      "csc": "2A"
+    },
+    "g": {
+      "trans": [2303.1, 371.7],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [35],
+      "C2": [48]
+    }
+  }, {
+    "id": 318,
+    "type": "ant rx",
+    "names": {
+      "visio": "Ant RX.55",
+      "scc": "RX2",
+      "csc": "2RX"
+    },
+    "g": {
+      "trans": [566.9, 3578.7],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [36]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 319,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.66",
+      "scc": "A3",
+      "csc": "3A"
+    },
+    "g": {
+      "trans": [2303.1, 655.1],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [21],
+      "C2": [30]
+    }
+  }, {
+    "id": 320,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.67",
+      "scc": "CS3",
+      "csc": "3CS"
+    },
+    "g": {
+      "trans": [3118.1, 486.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [31],
+      "C2": [32]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS003"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM03"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG03", "CSH03"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU03"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 321,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.68",
+      "scc": "S3",
+      "csc": "3S"
+    },
+    "g": {
+      "trans": [3614.2, 486.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [32],
+      "C2": [33],
+      "CE": [553]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS003"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 323,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.70"
+    },
+    "g": {
+      "trans": [2940.9, 531.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [18],
+      "C2": [47],
+      "C3": [31],
+      "C4": [17]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS07"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 324,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.73"
+    },
+    "g": {
+      "trans": [4039.4, 531.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [33],
+      "C2": [15],
+      "C3": [60],
+      "C4": [75]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS08"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 325,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.76",
+      "scc": "A4",
+      "csc": "4A"
+    },
+    "g": {
+      "trans": [2303.1, 796.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [20],
+      "C2": [26]
+    }
+  }, {
+    "id": 326,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.77",
+      "scc": "CS4",
+      "csc": "4CS"
+    },
+    "g": {
+      "trans": [3118.1, 628.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [3],
+      "C2": [2]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS004"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM04"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG04", "CSH04"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU04"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 327,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.78",
+      "scc": "S5",
+      "csc": "5S"
+    },
+    "g": {
+      "trans": [3614.2, 770.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [28],
+      "C2": [29],
+      "CE": [619]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS005"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 329,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.80"
+    },
+    "g": {
+      "trans": [2940.9, 814.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [26],
+      "C2": [4],
+      "C3": [27],
+      "C4": [16]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS11"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 330,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.82"
+    },
+    "g": {
+      "trans": [4039.4, 814.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [29],
+      "C2": [14],
+      "C3": [61],
+      "C4": [13]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS12"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 331,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.86",
+      "scc": "A5",
+      "csc": "5A"
+    },
+    "g": {
+      "trans": [2303.1, 1080.3],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [19],
+      "C2": [22]
+    }
+  }, {
+    "id": 332,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.87",
+      "scc": "CS5",
+      "csc": "5CS"
+    },
+    "g": {
+      "trans": [3118.1, 770.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [27],
+      "C2": [28]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS005"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM05"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG05", "CSH05"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU05"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 333,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.88",
+      "scc": "S6",
+      "csc": "6S"
+    },
+    "g": {
+      "trans": [3614.2, 912],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [24],
+      "C2": [25],
+      "CE": [620]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS006"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 335,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.90"
+    },
+    "g": {
+      "trans": [2940.9, 956.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [71],
+      "C2": [16],
+      "C3": [23],
+      "C4": [73]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS13"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 336,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.92"
+    },
+    "g": {
+      "trans": [4039.4, 956.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [25],
+      "C2": [13],
+      "C3": [62],
+      "C4": [77]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS14"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 337,
+    "type": "filter",
+    "names": {
+      "visio": "Path.26",
+      "scc": "A2",
+      "csc": "2A"
+    },
+    "g": {
+      "trans": [4677.2, 389.4],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [45],
+      "C2": [64]
+    },
+    "pass": ["A2"],
+    "expected_whitelist": []
+  }, {
+    "id": 338,
+    "type": "filter",
+    "names": {
+      "visio": "Path.45",
+      "scc": "A4",
+      "csc": "4A"
+    },
+    "g": {
+      "trans": [4677.2, 814.6],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [61],
+      "C2": [63]
+    },
+    "pass": ["A4"],
+    "expected_whitelist": []
+  }, {
+    "id": 339,
+    "type": "ant tx",
+    "names": {
+      "visio": "Ant TX.166",
+      "scc": "TX2",
+      "csc": "2TX"
+    },
+    "g": {
+      "trans": [5208.7, 1789.3],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [66]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 340,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.99"
+    },
+    "g": {
+      "trans": [2621.7, 177.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [289],
+      "C2": [288],
+      "C3": [5],
+      "C4": [290]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS01"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 341,
+    "type": "lna",
+    "names": {
+      "visio": "LNA",
+      "scc": "L1",
+      "csc": "1L"
+    },
+    "g": {
+      "trans": [1239.9, 1080.6],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [44],
+      "C2": [11]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA01"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": true
+  }, {
+    "id": 343,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter",
+      "scc": "DC1",
+      "csc": "1DC"
+    },
+    "g": {
+      "trans": [1576.8, 1080.6],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [11],
+      "C2": [40],
+      "CT": [296]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC001"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 344,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.51",
+      "scc": "L2",
+      "csc": "2L"
+    },
+    "g": {
+      "trans": [1239.9, 1310.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [43],
+      "C2": [10]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA02"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 346,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.71",
+      "scc": "DC2",
+      "csc": "2DC"
+    },
+    "g": {
+      "trans": [1576.8, 1310.9],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [10],
+      "C2": [41],
+      "CT": [297]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 347,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.208",
+      "scc": "DC7",
+      "csc": "7DC"
+    },
+    "g": {
+      "trans": [1576.8, 3684.9],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [9],
+      "C2": [37],
+      "CT": [298]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC007"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 348,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.209",
+      "scc": "DC8",
+      "csc": "8DC"
+    },
+    "g": {
+      "trans": [1576.8, 3879.8],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [8],
+      "C2": [39],
+      "CT": [299]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC008"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 349,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.210",
+      "scc": "L7",
+      "csc": "7L"
+    },
+    "g": {
+      "trans": [1239.9, 3684.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [38],
+      "C2": [9]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA07"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 351,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.212",
+      "scc": "L8",
+      "csc": "8L"
+    },
+    "g": {
+      "trans": [1239.9, 3879.8],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [42],
+      "C2": [8]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA08"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 353,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.31"
+    },
+    "g": {
+      "trans": [2940.9, 672.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [30],
+      "C2": [17],
+      "C3": [3],
+      "C4": [4]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS09"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 354,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.100",
+      "scc": "S4",
+      "csc": "4S"
+    },
+    "g": {
+      "trans": [3614.2, 628.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [2],
+      "C2": [81],
+      "CE": [612]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS004"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 356,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.117",
+      "scc": "CS6",
+      "csc": "6CS"
+    },
+    "g": {
+      "trans": [3118.1, 912],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [23],
+      "C2": [24]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS006"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM06"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG06", "CSH06"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU06"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 357,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.118"
+    },
+    "g": {
+      "trans": [2799.2, 1098],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [22],
+      "C2": [71],
+      "C3": [70],
+      "C4": [145]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS15"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 358,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.121",
+      "scc": "S7",
+      "csc": "7S"
+    },
+    "g": {
+      "trans": [3614.2, 1053.7],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [69],
+      "C2": [78],
+      "CE": [621]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS007"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 360,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.123",
+      "scc": "CS7",
+      "csc": "7CS"
+    },
+    "g": {
+      "trans": [3118.1, 1053.7],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [70],
+      "C2": [69]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS007"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM07"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG07", "CSH07"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU07"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 361,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.124",
+      "scc": "S8",
+      "csc": "8S"
+    },
+    "g": {
+      "trans": [3614.2, 1195.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [68],
+      "C2": [82],
+      "CE": [622]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS008"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 363,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.126",
+      "scc": "CS8",
+      "csc": "8CS"
+    },
+    "g": {
+      "trans": [3118.1, 1195.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [74],
+      "C2": [68]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS008"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM08"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG08", "CSH08"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU08"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 364,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.129"
+    },
+    "g": {
+      "trans": [2940.9, 1239.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [72],
+      "C2": [73],
+      "C3": [74],
+      "C4": [143]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS17"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 365,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.130",
+      "scc": "A6",
+      "csc": "6A"
+    },
+    "g": {
+      "trans": [2303.1, 1222],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [147],
+      "C2": [72]
+    }
+  }, {
+    "id": 366,
+    "type": "filter",
+    "names": {
+      "visio": "Path.134",
+      "scc": "A3",
+      "csc": "3A"
+    },
+    "g": {
+      "trans": [4677.2, 672.8],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [76],
+      "C2": [83]
+    },
+    "pass": ["A3"],
+    "expected_whitelist": []
+  }, {
+    "id": 367,
+    "type": "filter",
+    "names": {
+      "visio": "Path.135",
+      "scc": "A5",
+      "csc": "5A"
+    },
+    "g": {
+      "trans": [4677.2, 1098],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [79],
+      "C2": [84]
+    },
+    "pass": ["A5"],
+    "expected_whitelist": []
+  }, {
+    "id": 368,
+    "type": "filter",
+    "names": {
+      "visio": "Path.136",
+      "scc": "A6",
+      "csc": "6A"
+    },
+    "g": {
+      "trans": [4677.2, 1239.8],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [80],
+      "C2": [85]
+    },
+    "pass": ["A6"],
+    "expected_whitelist": []
+  }, {
+    "id": 369,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.137"
+    },
+    "g": {
+      "trans": [4039.4, 672.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [81],
+      "C2": [75],
+      "C3": [76],
+      "C4": [14]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS10"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 370,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.140"
+    },
+    "g": {
+      "trans": [4181.1, 1098],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [78],
+      "C2": [62],
+      "C3": [79],
+      "C4": [108]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS16"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 371,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.141"
+    },
+    "g": {
+      "trans": [4039.4, 1239.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [82],
+      "C2": [77],
+      "C3": [80],
+      "C4": [144]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS18"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 372,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.29"
+    },
+    "g": {
+      "trans": [4358, 177.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [12],
+      "C2": [292],
+      "C3": [293],
+      "C4": [294]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS02"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 373,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.191",
+      "scc": "A7",
+      "csc": "7A"
+    },
+    "g": {
+      "trans": [2303.1, 1399.2],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [148],
+      "C2": [111]
+    }
+  }, {
+    "id": 374,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.192",
+      "scc": "CS9",
+      "csc": "9CS"
+    },
+    "g": {
+      "trans": [3118.1, 1372.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [112],
+      "C2": [113]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS009"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM09"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG09", "CSH09"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU09"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 375,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.193",
+      "scc": "S9",
+      "csc": "9S"
+    },
+    "g": {
+      "trans": [3614.2, 1372.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [113],
+      "C2": [116],
+      "CE": [623]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS009"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 377,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.195",
+      "scc": "CS10",
+      "csc": "10CS"
+    },
+    "g": {
+      "trans": [3118.1, 1514.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [114],
+      "C2": [115]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS010"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM10"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG10", "CSH10"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU10"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 378,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.196",
+      "scc": "S10",
+      "csc": "10S"
+    },
+    "g": {
+      "trans": [3614.2, 1514.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [115],
+      "C2": [117],
+      "CE": [624]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS010"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 380,
+    "type": "filter",
+    "names": {
+      "visio": "Path.198",
+      "scc": "A7",
+      "csc": "7A"
+    },
+    "g": {
+      "trans": [4677.2, 1416.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [118],
+      "C2": [124]
+    },
+    "pass": ["A7"],
+    "expected_whitelist": []
+  }, {
+    "id": 381,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.199"
+    },
+    "g": {
+      "trans": [2940.9, 1416.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [111],
+      "C2": [143],
+      "C3": [112],
+      "C4": [109]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS19"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 382,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.200"
+    },
+    "g": {
+      "trans": [2799.2, 1558.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [110],
+      "C2": [145],
+      "C3": [114],
+      "C4": [94]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS21"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 383,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.201"
+    },
+    "g": {
+      "trans": [4039.4, 1416.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [116],
+      "C2": [144],
+      "C3": [118],
+      "C4": [91]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS20"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 384,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.202"
+    },
+    "g": {
+      "trans": [4181.1, 1558.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [117],
+      "C2": [108],
+      "C3": [107],
+      "C4": [119]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS22"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 385,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.203",
+      "scc": "A8",
+      "csc": "8A"
+    },
+    "g": {
+      "trans": [2303.1, 1540.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [149],
+      "C2": [110]
+    }
+  }, {
+    "id": 386,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.204",
+      "scc": "A9",
+      "csc": "9A"
+    },
+    "g": {
+      "trans": [2303.1, 1824.4],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [150],
+      "C2": [103]
+    }
+  }, {
+    "id": 387,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.205",
+      "scc": "CS11",
+      "csc": "11CS"
+    },
+    "g": {
+      "trans": [3118.1, 1656.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [104],
+      "C2": [105]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS011"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM11"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG11", "CSH11"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU11"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 388,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.218",
+      "scc": "S11",
+      "csc": "11S"
+    },
+    "g": {
+      "trans": [3614.2, 1656.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [105],
+      "C2": [106],
+      "CE": [625]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS011"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 390,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.220"
+    },
+    "g": {
+      "trans": [2940.9, 1700.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [94],
+      "C2": [109],
+      "C3": [104],
+      "C4": [93]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS23"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 391,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.221"
+    },
+    "g": {
+      "trans": [4039.4, 1700.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [106],
+      "C2": [91],
+      "C3": [119],
+      "C4": [132]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS24"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 392,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.222",
+      "scc": "A10",
+      "csc": "10A"
+    },
+    "g": {
+      "trans": [2303.1, 1966.1],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [152],
+      "C2": [99]
+    }
+  }, {
+    "id": 393,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.223",
+      "scc": "CS12",
+      "csc": "12CS"
+    },
+    "g": {
+      "trans": [3118.1, 1797.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [87],
+      "C2": [86]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS012"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM12"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG12", "CSH12"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU12"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 394,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.224",
+      "scc": "S13",
+      "csc": "13S"
+    },
+    "g": {
+      "trans": [3614.2, 1939.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [101],
+      "C2": [102],
+      "CE": [627]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS013"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 396,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.226"
+    },
+    "g": {
+      "trans": [2940.9, 1983.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [99],
+      "C2": [88],
+      "C3": [100],
+      "C4": [92]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS27"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 397,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.227"
+    },
+    "g": {
+      "trans": [4039.4, 1983.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [102],
+      "C2": [90],
+      "C3": [120],
+      "C4": [89]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS28"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 398,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.228",
+      "scc": "A11",
+      "csc": "11A"
+    },
+    "g": {
+      "trans": [2303.1, 2249.6],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [151],
+      "C2": [95]
+    }
+  }, {
+    "id": 399,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.229",
+      "scc": "CS13",
+      "csc": "13CS"
+    },
+    "g": {
+      "trans": [3118.1, 1939.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [100],
+      "C2": [101]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS013"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM13"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG13", "CSH13"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU13"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 400,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.230",
+      "scc": "S14",
+      "csc": "14S"
+    },
+    "g": {
+      "trans": [3614.2, 2081.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [97],
+      "C2": [98],
+      "CE": [628]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS014"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 402,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.232"
+    },
+    "g": {
+      "trans": [2940.9, 2125.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [128],
+      "C2": [92],
+      "C3": [96],
+      "C4": [130]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS29"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 403,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.233"
+    },
+    "g": {
+      "trans": [4039.4, 2125.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [98],
+      "C2": [89],
+      "C3": [121],
+      "C4": [134]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS30"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 404,
+    "type": "filter",
+    "names": {
+      "visio": "Path.234",
+      "scc": "A8",
+      "csc": "8A"
+    },
+    "g": {
+      "trans": [4677.2, 1558.7],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [107],
+      "C2": [123]
+    },
+    "pass": ["A8"],
+    "expected_whitelist": []
+  }, {
+    "id": 405,
+    "type": "filter",
+    "names": {
+      "visio": "Path.235",
+      "scc": "A10",
+      "csc": "10A"
+    },
+    "g": {
+      "trans": [4677.2, 1983.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [120],
+      "C2": [122]
+    },
+    "pass": ["A10"],
+    "expected_whitelist": []
+  }, {
+    "id": 406,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.236"
+    },
+    "g": {
+      "trans": [2940.9, 1842.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [103],
+      "C2": [93],
+      "C3": [87],
+      "C4": [88]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS25"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 407,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.237",
+      "scc": "S12",
+      "csc": "12S"
+    },
+    "g": {
+      "trans": [3614.2, 1797.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [86],
+      "C2": [138],
+      "CE": [626]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS012"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 409,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.240",
+      "scc": "CS14",
+      "csc": "14CS"
+    },
+    "g": {
+      "trans": [3118.1, 2081.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [96],
+      "C2": [97]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS014"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM14"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG14", "CSH14"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU14"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 410,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.241"
+    },
+    "g": {
+      "trans": [2799.2, 2267.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [95],
+      "C2": [128],
+      "C3": [127],
+      "C4": [146]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS31"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 411,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.244",
+      "scc": "S15",
+      "csc": "15S"
+    },
+    "g": {
+      "trans": [3614.2, 2223],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [126],
+      "C2": [135],
+      "CE": [629]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS015"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 413,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.246",
+      "scc": "CS15",
+      "csc": "15CS"
+    },
+    "g": {
+      "trans": [3118.1, 2223],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [127],
+      "C2": [126]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS015"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM15"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG15", "CSH15"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU15"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 414,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.247",
+      "scc": "S16",
+      "csc": "16S"
+    },
+    "g": {
+      "trans": [3614.2, 2364.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [125],
+      "C2": [139],
+      "CE": [630]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TS016"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 416,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.249",
+      "scc": "CS16",
+      "csc": "16CS"
+    },
+    "g": {
+      "trans": [3118.1, 2364.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [131],
+      "C2": [125]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CS016"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CSM16"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CSG16", "CSH16"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CSU16"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 417,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.252"
+    },
+    "g": {
+      "trans": [2940.9, 2409.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [129],
+      "C2": [130],
+      "C3": [131],
+      "C4": [290]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS33"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 418,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.253",
+      "scc": "A12",
+      "csc": "12A"
+    },
+    "g": {
+      "trans": [2303.1, 2391.3],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [153],
+      "C2": [129]
+    }
+  }, {
+    "id": 419,
+    "type": "filter",
+    "names": {
+      "visio": "Path.257",
+      "scc": "A9",
+      "csc": "9A"
+    },
+    "g": {
+      "trans": [4677.2, 1842.1],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [133],
+      "C2": [140]
+    },
+    "pass": ["A9"],
+    "expected_whitelist": []
+  }, {
+    "id": 420,
+    "type": "filter",
+    "names": {
+      "visio": "Path.258",
+      "scc": "A11",
+      "csc": "11A"
+    },
+    "g": {
+      "trans": [4677.2, 2267.3],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [136],
+      "C2": [141]
+    },
+    "pass": ["A11"],
+    "expected_whitelist": []
+  }, {
+    "id": 421,
+    "type": "filter",
+    "names": {
+      "visio": "Path.259",
+      "scc": "A12",
+      "csc": "12A"
+    },
+    "g": {
+      "trans": [4677.2, 2409.1],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [137],
+      "C2": [142]
+    },
+    "pass": ["A12"],
+    "expected_whitelist": []
+  }, {
+    "id": 422,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.260"
+    },
+    "g": {
+      "trans": [4039.4, 1842.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [138],
+      "C2": [132],
+      "C3": [133],
+      "C4": [90]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS26"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 423,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.263"
+    },
+    "g": {
+      "trans": [4181.1, 2267.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [135],
+      "C2": [121],
+      "C3": [136],
+      "C4": [46]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS32"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 424,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.264"
+    },
+    "g": {
+      "trans": [4039.4, 2409.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [139],
+      "C2": [134],
+      "C3": [137],
+      "C4": [294]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS34"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 425,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.334",
+      "scc": "B1",
+      "csc": "1B"
+    },
+    "g": {
+      "trans": [2303.1, 2603.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [194],
+      "C2": [185]
+    }
+  }, {
+    "id": 426,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.335",
+      "scc": "CN1",
+      "csc": "1CN"
+    },
+    "g": {
+      "trans": [3118.1, 2577.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [186],
+      "C2": [187]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN001"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM01"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG01", "CNH01"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU01"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 427,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.336",
+      "scc": "N1",
+      "csc": "1N"
+    },
+    "g": {
+      "trans": [3614.2, 2577.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [187],
+      "C2": [190],
+      "CE": [631]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN001"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": true
+  }, {
+    "id": 429,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.338",
+      "scc": "CN2",
+      "csc": "2CN"
+    },
+    "g": {
+      "trans": [3118.1, 2719.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [188],
+      "C2": [189]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN002"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM02"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG02", "CNH02"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU02"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": true
+  }, {
+    "id": 430,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.339",
+      "scc": "N2",
+      "csc": "2N"
+    },
+    "g": {
+      "trans": [3614.2, 2719.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [189],
+      "C2": [191],
+      "CE": [632]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 432,
+    "type": "filter",
+    "names": {
+      "visio": "Path.341",
+      "scc": "B1",
+      "csc": "1B"
+    },
+    "g": {
+      "trans": [4677.2, 2621.7],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [192],
+      "C2": [200]
+    },
+    "pass": ["B1"],
+    "expected_whitelist": []
+  }, {
+    "id": 433,
+    "type": "ant tx",
+    "names": {
+      "visio": "Ant TX.342",
+      "scc": "TX3",
+      "csc": "3TX"
+    },
+    "g": {
+      "trans": [5208.7, 2993.7],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [193]
+    },
+    "display_in_path": true,
+    "failed": true,
+    "show_dish": true
+  }, {
+    "id": 434,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.343"
+    },
+    "g": {
+      "trans": [2940.9, 2621.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [185],
+      "C2": [157],
+      "C3": [186],
+      "C4": [183]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS37"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0,
+    "stuck": 3
+  }, {
+    "id": 435,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.344"
+    },
+    "g": {
+      "trans": [2799.2, 2763.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [184],
+      "C2": [280],
+      "C3": [188],
+      "C4": [164]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS39"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 436,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.345"
+    },
+    "g": {
+      "trans": [4039.4, 2621.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [190],
+      "C2": [158],
+      "C3": [192],
+      "C4": [161]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS38"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": true,
+    "inversion": 0,
+    "rotation": 0,
+    "stuck": 1
+  }, {
+    "id": 437,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.346"
+    },
+    "g": {
+      "trans": [4181.1, 2763.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [191],
+      "C2": [182],
+      "C3": [181],
+      "C4": [195]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS40"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 438,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.347",
+      "scc": "B2",
+      "csc": "2B"
+    },
+    "g": {
+      "trans": [2303.1, 2745.7],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [180],
+      "C2": [184]
+    }
+  }, {
+    "id": 439,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.348",
+      "scc": "B3",
+      "csc": "3B"
+    },
+    "g": {
+      "trans": [2303.1, 3029.1],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [167],
+      "C2": [176]
+    }
+  }, {
+    "id": 440,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.349",
+      "scc": "CN3",
+      "csc": "3CN"
+    },
+    "g": {
+      "trans": [3118.1, 2860.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [177],
+      "C2": [178]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN003"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM03"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG03", "CNH03"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU03"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 441,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.350",
+      "scc": "N3",
+      "csc": "3N"
+    },
+    "g": {
+      "trans": [3614.2, 2860.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [178],
+      "C2": [179],
+      "CE": [635]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN003"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 443,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.352"
+    },
+    "g": {
+      "trans": [2940.9, 2905.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [164],
+      "C2": [183],
+      "C3": [177],
+      "C4": [163]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS41"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 444,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.353"
+    },
+    "g": {
+      "trans": [4039.4, 2905.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [179],
+      "C2": [161],
+      "C3": [195],
+      "C4": [209]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS42"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 445,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.354",
+      "scc": "B4",
+      "csc": "4B"
+    },
+    "g": {
+      "trans": [2303.1, 3170.9],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [166],
+      "C2": [172]
+    }
+  }, {
+    "id": 446,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.355",
+      "scc": "CN4",
+      "csc": "4CN"
+    },
+    "g": {
+      "trans": [3118.1, 3002.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [155],
+      "C2": [154]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN004"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM04"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG04", "CNH04"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU04"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 447,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.356",
+      "scc": "N5",
+      "csc": "5N"
+    },
+    "g": {
+      "trans": [3614.2, 3144.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [174],
+      "C2": [175],
+      "CE": [643]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN005"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 449,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.358"
+    },
+    "g": {
+      "trans": [2940.9, 3188.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [172],
+      "C2": [156],
+      "C3": [173],
+      "C4": [162]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS45"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 450,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.359"
+    },
+    "g": {
+      "trans": [4039.4, 3188.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [175],
+      "C2": [160],
+      "C3": [196],
+      "C4": [159]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS46"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 451,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.360",
+      "scc": "B5",
+      "csc": "5B"
+    },
+    "g": {
+      "trans": [2303.1, 3454.3],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [165],
+      "C2": [168]
+    }
+  }, {
+    "id": 452,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.361",
+      "scc": "CN5",
+      "csc": "5CN"
+    },
+    "g": {
+      "trans": [3118.1, 3144.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [173],
+      "C2": [174]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN005"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM05"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG05", "CNH05"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU05"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 453,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.362",
+      "scc": "N6",
+      "csc": "6N"
+    },
+    "g": {
+      "trans": [3614.2, 3286],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [170],
+      "C2": [171],
+      "CE": [644]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN006"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 455,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.364"
+    },
+    "g": {
+      "trans": [2940.9, 3330.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [205],
+      "C2": [162],
+      "C3": [169],
+      "C4": [207]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS47"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 456,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.365"
+    },
+    "g": {
+      "trans": [4039.4, 3330.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [171],
+      "C2": [159],
+      "C3": [197],
+      "C4": [211]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS48"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 457,
+    "type": "filter",
+    "names": {
+      "visio": "Path.366",
+      "scc": "B2",
+      "csc": "2B"
+    },
+    "g": {
+      "trans": [4677.2, 2763.4],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [181],
+      "C2": [199]
+    },
+    "pass": ["B2"],
+    "expected_whitelist": []
+  }, {
+    "id": 458,
+    "type": "filter",
+    "names": {
+      "visio": "Path.367",
+      "scc": "B4",
+      "csc": "4B"
+    },
+    "g": {
+      "trans": [4677.2, 3188.6],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [196],
+      "C2": [198]
+    },
+    "pass": ["B4"],
+    "expected_whitelist": []
+  }, {
+    "id": 459,
+    "type": "ant tx",
+    "names": {
+      "visio": "Ant TX.368",
+      "scc": "TX4",
+      "csc": "4TX"
+    },
+    "g": {
+      "trans": [5208.7, 4163],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [201]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 460,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.369"
+    },
+    "g": {
+      "trans": [2550.9, 2551.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [288],
+      "C2": [289],
+      "C3": [157],
+      "C4": [291]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS35"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 461,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.370"
+    },
+    "g": {
+      "trans": [2940.9, 3046.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [176],
+      "C2": [163],
+      "C3": [155],
+      "C4": [156]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS43"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 462,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.371",
+      "scc": "N4",
+      "csc": "4N"
+    },
+    "g": {
+      "trans": [3614.2, 3002.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [154],
+      "C2": [215],
+      "CE": [636]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN004"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 464,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.375",
+      "scc": "CN6",
+      "csc": "6CN"
+    },
+    "g": {
+      "trans": [3118.1, 3286],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [169],
+      "C2": [170]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN006"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM06"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG06", "CNH06"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU06"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 465,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.376"
+    },
+    "g": {
+      "trans": [2799.2, 3472],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [168],
+      "C2": [205],
+      "C3": [204],
+      "C4": [279]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS49"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 466,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.379",
+      "scc": "N7",
+      "csc": "7N"
+    },
+    "g": {
+      "trans": [3614.2, 3427.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [203],
+      "C2": [212],
+      "CE": [645]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN007"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 468,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.381",
+      "scc": "CN7",
+      "csc": "7CN"
+    },
+    "g": {
+      "trans": [3118.1, 3427.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [204],
+      "C2": [203]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN007"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM07"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG07", "CNH07"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU07"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 469,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.382",
+      "scc": "N8",
+      "csc": "8N"
+    },
+    "g": {
+      "trans": [3614.2, 3569.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [202],
+      "C2": [216],
+      "CE": [646]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN008"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 471,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.384",
+      "scc": "CN8",
+      "csc": "8CN"
+    },
+    "g": {
+      "trans": [3118.1, 3569.5],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [208],
+      "C2": [202]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN008"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM08"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG08", "CNH08"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU08"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 472,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.387"
+    },
+    "g": {
+      "trans": [2940.9, 3613.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [206],
+      "C2": [207],
+      "C3": [208],
+      "C4": [277]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS51"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 473,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.388",
+      "scc": "B6",
+      "csc": "6B"
+    },
+    "g": {
+      "trans": [2303.1, 3596.1],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [281],
+      "C2": [206]
+    }
+  }, {
+    "id": 474,
+    "type": "filter",
+    "names": {
+      "visio": "Path.392",
+      "scc": "B3",
+      "csc": "3B"
+    },
+    "g": {
+      "trans": [4677.2, 3046.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [210],
+      "C2": [217]
+    },
+    "pass": ["B3"],
+    "expected_whitelist": []
+  }, {
+    "id": 475,
+    "type": "filter",
+    "names": {
+      "visio": "Path.393",
+      "scc": "B5",
+      "csc": "5B"
+    },
+    "g": {
+      "trans": [4677.2, 3472],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [213],
+      "C2": [218]
+    },
+    "pass": ["B5"],
+    "expected_whitelist": []
+  }, {
+    "id": 476,
+    "type": "filter",
+    "names": {
+      "visio": "Path.394",
+      "scc": "B6",
+      "csc": "6B"
+    },
+    "g": {
+      "trans": [4677.2, 3613.8],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [214],
+      "C2": [219]
+    },
+    "pass": ["B6"],
+    "expected_whitelist": []
+  }, {
+    "id": 477,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.395"
+    },
+    "g": {
+      "trans": [4039.4, 3046.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [215],
+      "C2": [209],
+      "C3": [210],
+      "C4": [160]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS44"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 478,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.398"
+    },
+    "g": {
+      "trans": [4181.1, 3472],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [212],
+      "C2": [197],
+      "C3": [213],
+      "C4": [242]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS50"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 479,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.399"
+    },
+    "g": {
+      "trans": [4039.4, 3613.8],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [216],
+      "C2": [211],
+      "C3": [214],
+      "C4": [278]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS52"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 480,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.406"
+    },
+    "g": {
+      "trans": [4428.8, 2551.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [158],
+      "C2": [293],
+      "C3": [292],
+      "C4": [295]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS36"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 481,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.450",
+      "scc": "B7",
+      "csc": "7B"
+    },
+    "g": {
+      "trans": [2303.1, 3773.2],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [282],
+      "C2": [245]
+    }
+  }, {
+    "id": 482,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.451",
+      "scc": "CN9",
+      "csc": "9CN"
+    },
+    "g": {
+      "trans": [3118.1, 3746.7],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [246],
+      "C2": [247]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN009"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM09"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG09", "CNH09"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU09"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 483,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.452",
+      "scc": "N9",
+      "csc": "9N"
+    },
+    "g": {
+      "trans": [3614.2, 3746.7],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [247],
+      "C2": [250],
+      "CE": [647]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN009"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 485,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.454",
+      "scc": "CN10",
+      "csc": "10CN"
+    },
+    "g": {
+      "trans": [3118.1, 3888.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [248],
+      "C2": [249]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN010"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM10"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG10", "CNH10"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU10"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 486,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.455",
+      "scc": "N10",
+      "csc": "10N"
+    },
+    "g": {
+      "trans": [3614.2, 3888.4],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [249],
+      "C2": [251],
+      "CE": [648]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN010"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 488,
+    "type": "filter",
+    "names": {
+      "visio": "Path.457",
+      "scc": "B7",
+      "csc": "7B"
+    },
+    "g": {
+      "trans": [4677.2, 3790.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [252],
+      "C2": [258]
+    },
+    "pass": ["B7"],
+    "expected_whitelist": []
+  }, {
+    "id": 489,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.458"
+    },
+    "g": {
+      "trans": [2940.9, 3790.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [245],
+      "C2": [277],
+      "C3": [246],
+      "C4": [243]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS53"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 490,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.459"
+    },
+    "g": {
+      "trans": [2799.2, 3932.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [244],
+      "C2": [279],
+      "C3": [248],
+      "C4": [228]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS55"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 491,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.460"
+    },
+    "g": {
+      "trans": [4039.4, 3790.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [250],
+      "C2": [278],
+      "C3": [252],
+      "C4": [225]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS54"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 492,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.461"
+    },
+    "g": {
+      "trans": [4181.1, 3932.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [251],
+      "C2": [242],
+      "C3": [241],
+      "C4": [253]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS56"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 493,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.462",
+      "scc": "B8",
+      "csc": "8B"
+    },
+    "g": {
+      "trans": [2303.1, 3915],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [283],
+      "C2": [244]
+    }
+  }, {
+    "id": 494,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.463",
+      "scc": "B9",
+      "csc": "9B"
+    },
+    "g": {
+      "trans": [2303.1, 4198.4],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [284],
+      "C2": [237]
+    }
+  }, {
+    "id": 495,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.464",
+      "scc": "CN11",
+      "csc": "11CN"
+    },
+    "g": {
+      "trans": [3118.1, 4030.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [238],
+      "C2": [239]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN011"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM11"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG11", "CNH11"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU11"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 496,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.465",
+      "scc": "N11",
+      "csc": "11N"
+    },
+    "g": {
+      "trans": [3614.2, 4030.1],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [239],
+      "C2": [240],
+      "CE": [649]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN011"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 498,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.467"
+    },
+    "g": {
+      "trans": [2940.9, 4074.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [228],
+      "C2": [243],
+      "C3": [238],
+      "C4": [227]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS57"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 499,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.468"
+    },
+    "g": {
+      "trans": [4039.4, 4074.4],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [240],
+      "C2": [225],
+      "C3": [253],
+      "C4": [266]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS58"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 500,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.469",
+      "scc": "B10",
+      "csc": "10B"
+    },
+    "g": {
+      "trans": [2303.1, 4340.2],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [286],
+      "C2": [233]
+    }
+  }, {
+    "id": 501,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.470",
+      "scc": "CN12",
+      "csc": "12CN"
+    },
+    "g": {
+      "trans": [3118.1, 4171.9],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [221],
+      "C2": [220]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN012"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM12"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG12", "CNH12"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU12"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 502,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.471",
+      "scc": "N13",
+      "csc": "13N"
+    },
+    "g": {
+      "trans": [3614.2, 4313.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [235],
+      "C2": [236],
+      "CE": [651]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN013"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 504,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.473"
+    },
+    "g": {
+      "trans": [2940.9, 4357.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [233],
+      "C2": [222],
+      "C3": [234],
+      "C4": [226]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS61"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 505,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.474"
+    },
+    "g": {
+      "trans": [4039.4, 4357.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [236],
+      "C2": [224],
+      "C3": [254],
+      "C4": [223]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS62"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 506,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.475",
+      "scc": "B11",
+      "csc": "11B"
+    },
+    "g": {
+      "trans": [2303.1, 4623.6],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [285],
+      "C2": [229]
+    }
+  }, {
+    "id": 507,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.476",
+      "scc": "CN13",
+      "csc": "13CN"
+    },
+    "g": {
+      "trans": [3118.1, 4313.6],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [234],
+      "C2": [235]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN013"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM13"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG13", "CNH13"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU13"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 508,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.477",
+      "scc": "N14",
+      "csc": "14N"
+    },
+    "g": {
+      "trans": [3614.2, 4455.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [231],
+      "C2": [232],
+      "CE": [652]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN014"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 510,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.479"
+    },
+    "g": {
+      "trans": [2940.9, 4499.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [262],
+      "C2": [226],
+      "C3": [230],
+      "C4": [264]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS63"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 511,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.480"
+    },
+    "g": {
+      "trans": [4039.4, 4499.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [232],
+      "C2": [223],
+      "C3": [255],
+      "C4": [268]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS64"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 512,
+    "type": "filter",
+    "names": {
+      "visio": "Path.481",
+      "scc": "B8",
+      "csc": "8B"
+    },
+    "g": {
+      "trans": [4677.2, 3932.7],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [241],
+      "C2": [257]
+    },
+    "pass": ["B8"],
+    "expected_whitelist": []
+  }, {
+    "id": 513,
+    "type": "filter",
+    "names": {
+      "visio": "Path.482",
+      "scc": "B10",
+      "csc": "10B"
+    },
+    "g": {
+      "trans": [4677.2, 4357.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [254],
+      "C2": [256]
+    },
+    "pass": ["B10"],
+    "expected_whitelist": []
+  }, {
+    "id": 514,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.483"
+    },
+    "g": {
+      "trans": [2940.9, 4216.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [237],
+      "C2": [227],
+      "C3": [221],
+      "C4": [222]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS59"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 515,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.484",
+      "scc": "N12",
+      "csc": "12N"
+    },
+    "g": {
+      "trans": [3614.2, 4171.9],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [220],
+      "C2": [272],
+      "CE": [650]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN012"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 517,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.487",
+      "scc": "CN14",
+      "csc": "14CN"
+    },
+    "g": {
+      "trans": [3118.1, 4455.3],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [230],
+      "C2": [231]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN014"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM14"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG14", "CNH14"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU14"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 518,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.488"
+    },
+    "g": {
+      "trans": [2799.2, 4641.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [229],
+      "C2": [262],
+      "C3": [261],
+      "C4": [280]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS65"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 519,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.491",
+      "scc": "N15",
+      "csc": "15N"
+    },
+    "g": {
+      "trans": [3614.2, 4597],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [260],
+      "C2": [269],
+      "CE": [653]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN015"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 521,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.493",
+      "scc": "CN15",
+      "csc": "15CN"
+    },
+    "g": {
+      "trans": [3118.1, 4597],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [261],
+      "C2": [260]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN015"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM15"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG15", "CNH15"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU15"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 522,
+    "type": "twta",
+    "names": {
+      "visio": "TWTA.494",
+      "scc": "N16",
+      "csc": "16N"
+    },
+    "g": {
+      "trans": [3614.2, 4738.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [259],
+      "C2": [273],
+      "CE": [654]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["TN016"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 524,
+    "type": "camp",
+    "names": {
+      "visio": "CAMP.496",
+      "scc": "CN16",
+      "csc": "16CN"
+    },
+    "g": {
+      "trans": [3118.1, 4738.8],
+      "rect": [212.6, 159.4]
+    },
+    "connectors": {
+      "C1": [265],
+      "C2": [259]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["CN016"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mode": {
+        "tm": ["CNM16"],
+        "tm-state-driver": "ONOFF"
+      },
+      "gain": {
+        "tm": ["CNG16", "CNH16"],
+        "tm-state-driver": "ONOFF"
+      },
+      "mute": {
+        "tm": ["CNU16"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 525,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.499"
+    },
+    "g": {
+      "trans": [2940.9, 4783.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [263],
+      "C2": [264],
+      "C3": [265],
+      "C4": [291]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS67"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 526,
+    "type": "channel",
+    "names": {
+      "visio": "Channel.500",
+      "scc": "B12",
+      "csc": "12B"
+    },
+    "g": {
+      "trans": [2303.1, 4765.4],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [287],
+      "C2": [263]
+    }
+  }, {
+    "id": 527,
+    "type": "filter",
+    "names": {
+      "visio": "Path.504",
+      "scc": "B9",
+      "csc": "9B"
+    },
+    "g": {
+      "trans": [4677.2, 4216.1],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [267],
+      "C2": [274]
+    },
+    "pass": ["B9"],
+    "expected_whitelist": []
+  }, {
+    "id": 528,
+    "type": "filter",
+    "names": {
+      "visio": "Path.505",
+      "scc": "B11",
+      "csc": "11B"
+    },
+    "g": {
+      "trans": [4677.2, 4641.3],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [270],
+      "C2": [275]
+    },
+    "pass": ["B11"],
+    "expected_whitelist": []
+  }, {
+    "id": 529,
+    "type": "filter",
+    "names": {
+      "visio": "Path.506",
+      "scc": "B12",
+      "csc": "12B"
+    },
+    "g": {
+      "trans": [4677.2, 4783.1],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [271],
+      "C2": [276]
+    },
+    "pass": ["B12"],
+    "expected_whitelist": []
+  }, {
+    "id": 530,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.507"
+    },
+    "g": {
+      "trans": [4039.4, 4216.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [272],
+      "C2": [266],
+      "C3": [267],
+      "C4": [224]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS60"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 531,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.510"
+    },
+    "g": {
+      "trans": [4181.1, 4641.3],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [269],
+      "C2": [255],
+      "C3": [270],
+      "C4": [182]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS66"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 532,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.511"
+    },
+    "g": {
+      "trans": [4039.4, 4783.1],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [273],
+      "C2": [268],
+      "C3": [271],
+      "C4": [295]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["4WS68"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 533,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.4"
+    },
+    "g": {
+      "trans": [850.4, 1328.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [50],
+      "C2": [44],
+      "C3": [43],
+      "C4": [7]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["ISW01"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 534,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.48"
+    },
+    "g": {
+      "trans": [1807.1, 1328.6],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [41],
+      "C2": [40],
+      "C3": [34],
+      "C4": [6]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["ISW02"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 535,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.8"
+    },
+    "g": {
+      "trans": [850.4, 3702.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [36],
+      "C2": [599],
+      "C3": [38],
+      "C4": [42]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["ISW03"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 536,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.49"
+    },
+    "g": {
+      "trans": [1807.1, 3702.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [37],
+      "C2": [594],
+      "C3": [67],
+      "C4": [39]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["ISW04"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 538,
+    "type": "local oscillator",
+    "names": {
+      "visio": "Local Oscillator",
+      "scc": "LO2",
+      "csc": "LO2"
+    },
+    "g": {
+      "trans": [1222.3, 2657.5],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "T1": [608],
+      "T2": [301]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LO002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "freq": 0
+  }, {
+    "id": 539,
+    "type": "local oscillator",
+    "names": {
+      "visio": "Local Oscillator.545",
+      "scc": "LO1",
+      "csc": "LO1"
+    },
+    "g": {
+      "trans": [1116, 2657.5],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "T1": [609],
+      "T2": [300]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LO001"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "freq": 0
+  }, {
+    "id": 540,
+    "type": "master oscillator",
+    "names": {
+      "visio": "Master Oscillator",
+      "scc": "MO",
+      "csc": "OM"
+    },
+    "g": {
+      "trans": [1151.4, 2905.5],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "T1": [555]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["MO001"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 549,
+    "type": "epc",
+    "names": {
+      "visio": "EPC",
+      "scc": "EPC",
+      "csc": "CPE"
+    },
+    "g": {
+      "trans": [3419.3, 301.2],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [550, 551]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1000"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": true
+  }, {
+    "id": 561,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.561",
+      "scc": "L3",
+      "csc": "3L"
+    },
+    "g": {
+      "trans": [1240.2, 1718.5],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [566],
+      "C2": [556]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA03"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 563,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.563",
+      "scc": "DC3",
+      "csc": "3DC"
+    },
+    "g": {
+      "trans": [1576.8, 1718.5],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [556],
+      "C2": [559],
+      "CT": [603]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC003"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": true
+  }, {
+    "id": 568,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.568",
+      "scc": "L4",
+      "csc": "4L"
+    },
+    "g": {
+      "trans": [1240.2, 1860.2],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [575],
+      "C2": [567]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA04"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 570,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.570",
+      "scc": "DC4",
+      "csc": "4DC"
+    },
+    "g": {
+      "trans": [1576.8, 1860.2],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [567],
+      "C2": [581],
+      "CT": [604]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC004"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 572,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.572",
+      "scc": "L5",
+      "csc": "5L"
+    },
+    "g": {
+      "trans": [1240.2, 2002],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [576],
+      "C2": [571]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA05"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 574,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.574",
+      "scc": "DC5",
+      "csc": "5DC"
+    },
+    "g": {
+      "trans": [1576.8, 2002],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [571],
+      "C2": [582],
+      "CT": [605]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC005"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 564,
+    "type": "3-way switch",
+    "names": {
+      "visio": "3-Way Switch"
+    },
+    "g": {
+      "trans": [1807.1, 1736.2],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [559],
+      "C2": [6],
+      "C3": [583],
+      "C4": [579]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["3W001"],
+        "tm-state-driver": "TPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 577,
+    "type": "3-way switch",
+    "names": {
+      "visio": "3-Way Switch.577"
+    },
+    "g": {
+      "trans": [1807.1, 1878],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [581],
+      "C2": [579],
+      "C3": [584],
+      "C4": [580]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["3W002"],
+        "tm-state-driver": "TPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 578,
+    "type": "3-way switch",
+    "names": {
+      "visio": "3-Way Switch.578"
+    },
+    "g": {
+      "trans": [1807.1, 2019.7],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [582],
+      "C2": [580],
+      "C3": [587],
+      "C4": [585]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["3W003"],
+        "tm-state-driver": "TPOS"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 590,
+    "type": "down converter",
+    "names": {
+      "visio": "Down Converter.590",
+      "scc": "DC6",
+      "csc": "6DC"
+    },
+    "g": {
+      "trans": [1577.1, 3490.2],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "C1": [588],
+      "C2": [589],
+      "CT": [607]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC006"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 591,
+    "type": "lna",
+    "names": {
+      "visio": "LNA.591",
+      "scc": "L6",
+      "csc": "6L"
+    },
+    "g": {
+      "trans": [1240.2, 3490.2],
+      "rect": [141.7, 106.3]
+    },
+    "connectors": {
+      "C1": [598],
+      "C2": [588]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA06"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": true,
+    "failed": false
+  }, {
+    "id": 593,
+    "type": "4-way switch",
+    "names": {
+      "visio": "4-Way Switch.593"
+    },
+    "g": {
+      "trans": [1807.4, 3507.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [589],
+      "C2": [585],
+      "C3": [596],
+      "C4": [594]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["ISW05"],
+        "tm-state-driver": "RPOS"
+      }
+    },
+    "default_state": 2,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 600,
+    "type": "terminal",
+    "names": {
+      "visio": "Terminal"
+    },
+    "g": {
+      "trans": [779.5, 3507.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [601]
+    }
+  }, {
+    "id": 597,
+    "type": "3-way switch",
+    "names": {
+      "visio": "3-Way Switch.597"
+    },
+    "g": {
+      "trans": [850.4, 3507.9],
+      "rect": [70.9, 70.9]
+    },
+    "connectors": {
+      "C1": [601],
+      "C2": [611],
+      "C3": [598],
+      "C4": [599]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["3W004"],
+        "tm-state-driver": "TPOS"
+      }
+    },
+    "default_state": 3,
+    "display_in_path": false,
+    "failed": false,
+    "inversion": 0,
+    "rotation": 0
+  }, {
+    "id": 610,
+    "type": "ant rx",
+    "names": {
+      "visio": "Ant RX.610",
+      "scc": "RX3",
+      "csc": "3RX"
+    },
+    "g": {
+      "trans": [566.9, 2285.4],
+      "rect": [212.6, 318.9]
+    },
+    "connectors": {
+      "C1": [560, 611]
+    },
+    "display_in_path": true,
+    "failed": false,
+    "show_dish": true
+  }, {
+    "id": 552,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.552"
+    },
+    "g": {
+      "trans": [3419.3, 584.6],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [553, 612]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 613,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.613"
+    },
+    "g": {
+      "trans": [3419.3, 868.1],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [619, 620]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1004"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 614,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.614"
+    },
+    "g": {
+      "trans": [3419.3, 1151.6],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [621, 622]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1006"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 615,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.615"
+    },
+    "g": {
+      "trans": [3419.3, 1470.5],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [623, 624]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1008"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 616,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.616"
+    },
+    "g": {
+      "trans": [3419.3, 1753.9],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [625, 626]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1010"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 617,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.617"
+    },
+    "g": {
+      "trans": [3419.3, 2037.4],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [627, 628]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1012"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 618,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.618"
+    },
+    "g": {
+      "trans": [3419.3, 2320.9],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [629, 630]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E1014"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 633,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.633",
+      "scc": "EPC",
+      "csc": "CPE"
+    },
+    "g": {
+      "trans": [3419.3, 2675.2],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [631, 632]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2000"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 634,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.634"
+    },
+    "g": {
+      "trans": [3419.3, 2958.7],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [635, 636]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2002"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 637,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.637"
+    },
+    "g": {
+      "trans": [3419.3, 3242.1],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [643, 644]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2004"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 638,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.638"
+    },
+    "g": {
+      "trans": [3419.3, 3525.6],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [645, 646]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2006"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 639,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.639"
+    },
+    "g": {
+      "trans": [3419.3, 3844.5],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [647, 648]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2008"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 640,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.640"
+    },
+    "g": {
+      "trans": [3419.3, 4128],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [649, 650]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2010"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 641,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.641"
+    },
+    "g": {
+      "trans": [3419.3, 4411.4],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [651, 652]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2012"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 642,
+    "type": "epc",
+    "names": {
+      "visio": "EPC.642"
+    },
+    "g": {
+      "trans": [3419.3, 4694.9],
+      "rect": [106.3, 106.3]
+    },
+    "connectors": {
+      "E1": [653, 654]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["E2014"],
+        "tm-state-driver": "ONOFF"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 557,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.557"
+    },
+    "g": {
+      "trans": [2267.7, 1807.1],
+      "rect": [35.4, 708.7]
+    },
+    "connectors": {
+      "C1": [584],
+      "C2": [150, 151, 152, 153]
+    }
+  }, {
+    "id": 541,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.25"
+    },
+    "g": {
+      "trans": [4818.9, 247.6],
+      "rect": [35.4, 1063]
+    },
+    "connectors": {
+      "C1": [63, 64, 65, 83, 84, 85],
+      "C2": [58]
+    }
+  }, {
+    "id": 565,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.565"
+    },
+    "g": {
+      "trans": [2267.7, 1063],
+      "rect": [35.4, 602.4]
+    },
+    "connectors": {
+      "C1": [583],
+      "C2": [19, 147, 148, 149]
+    }
+  }, {
+    "id": 543,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.239"
+    },
+    "g": {
+      "trans": [4818.9, 1416.9],
+      "rect": [35.4, 1063]
+    },
+    "connectors": {
+      "C1": [122, 123, 124, 140, 141, 142],
+      "C2": [66]
+    }
+  }, {
+    "id": 546,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.486"
+    },
+    "g": {
+      "trans": [4818.9, 3790.9],
+      "rect": [35.4, 1063]
+    },
+    "connectors": {
+      "C1": [256, 257, 258, 274, 275, 276],
+      "C2": [201]
+    }
+  }, {
+    "id": 542,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.374"
+    },
+    "g": {
+      "trans": [4818.9, 2621.7],
+      "rect": [35.4, 1063]
+    },
+    "connectors": {
+      "C1": [198, 199, 200, 217, 218, 219],
+      "C2": [193]
+    }
+  }, {
+    "id": 606,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.606"
+    },
+    "g": {
+      "trans": [1435, 3277.6],
+      "rot": 90,
+      "rect": [35.4, 141.7]
+    },
+    "connectors": {
+      "C1": [298, 299, 607],
+      "C2": [608]
+    }
+  }, {
+    "id": 554,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.554"
+    },
+    "g": {
+      "trans": [1187.2, 2728.4],
+      "rot": 90,
+      "rect": [35.4, 177.2]
+    },
+    "connectors": {
+      "C1": [555],
+      "C2": [300, 301]
+    }
+  }, {
+    "id": 586,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.586"
+    },
+    "g": {
+      "trans": [2267.7, 2586.6],
+      "rect": [35.4, 708.7]
+    },
+    "connectors": {
+      "C1": [658],
+      "C2": [166, 167, 180, 194]
+    }
+  }, {
+    "id": 545,
+    "type": "mux",
+    "names": {
+      "visio": "MUX"
+    },
+    "g": {
+      "trans": [2267.7, 212.2],
+      "rect": [35.4, 709.1]
+    },
+    "connectors": {
+      "C1": [34],
+      "C2": [20, 21, 35, 59]
+    }
+  }, {
+    "id": 602,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.602"
+    },
+    "g": {
+      "trans": [1470.5, 2143.7],
+      "rot": 90,
+      "rect": [35.4, 212.6]
+    },
+    "connectors": {
+      "C1": [609],
+      "C2": [296, 297, 603, 604, 605]
+    }
+  }, {
+    "id": 595,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.595"
+    },
+    "g": {
+      "trans": [2267.7, 3437],
+      "rect": [35.4, 602.4]
+    },
+    "connectors": {
+      "C1": [659],
+      "C2": [165, 281, 282, 283]
+    }
+  }, {
+    "id": 544,
+    "type": "mux",
+    "names": {
+      "visio": "MUX.373"
+    },
+    "g": {
+      "trans": [2267.7, 4181.1],
+      "rect": [35.4, 708.7]
+    },
+    "connectors": {
+      "C1": [661],
+      "C2": [284, 285, 286, 287]
+    }
+  }, {
+    "id": 655,
+    "type": "dp3t switch",
+    "names": {
+      "visio": "DP3T Switch.27"
+    },
+    "g": {
+      "trans": [921.6, 1842.5],
+      "rect": [141.7, 141.7]
+    },
+    "connectors": {
+      "C1": [7],
+      "C2": [560],
+      "C3": [566],
+      "C4": [575],
+      "C5": [576]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DP001"],
+        "tm-state-driver": "GSTATE[1=POS1;2=POS2;3=POS3]"
+      }
+    },
+    "default_state": 1,
+    "display_in_path": false,
+    "failed": false
+  }, {
+    "id": 658,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.658"
+    },
+    "g": {
+      "path": "M 2196.9 2940.9 L 2267.7 2940.9"
+    }
+  }, {
+    "id": 656,
+    "type": "label",
+    "names": {
+      "visio": "Label",
+      "scc": "CHN",
+      "csc": "CHN"
+    },
+    "g": {
+      "trans": [2055.1, 2905.5],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [587],
+      "C2": [658]
+    },
+    "labeltype": "channel_sts"
+  }, {
+    "id": 657,
+    "type": "label",
+    "names": {
+      "visio": "Label.657",
+      "scc": "CHN",
+      "csc": "CHN"
+    },
+    "g": {
+      "trans": [1984.3, 3507.9],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [596],
+      "C2": [659]
+    },
+    "labeltype": "channel_count"
+  }, {
+    "id": 659,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.659"
+    },
+    "g": {
+      "path": "M 2126 3543.3 L 2196.9 3543.3 L 2196.9 3738.2 L 2267.7 3738.2"
+    }
+  }, {
+    "id": 660,
+    "type": "label",
+    "names": {
+      "visio": "Label.660",
+      "scc": "CHN",
+      "csc": "CHN"
+    },
+    "g": {
+      "trans": [2055.1, 4500],
+      "rect": [141.7, 70.9]
+    },
+    "connectors": {
+      "C1": [67],
+      "C2": [661]
+    },
+    "labeltype": "channel_list"
+  }, {
+    "id": 661,
+    "type": "connector",
+    "names": {
+      "visio": "Dynamic connector.661"
+    },
+    "g": {
+      "path": "M 2196.9 4535.4 L 2267.7 4535.4"
+    }
+  }, {
+    "id": 662,
+    "type": "label",
+    "names": {
+      "visio": "Label.662",
+      "scc": "SCC1",
+      "csc": "CSC1"
+    },
+    "g": {
+      "trans": [1133.9, 3047.2],
+      "rect": [141.7, 70.9]
+    },
+    "labeltype": "text"
+  }, {
+    "id": 663,
+    "type": "label",
+    "names": {
+      "visio": "Label.663",
+      "scc": "TM",
+      "csc": "TM"
+    },
+    "g": {
+      "trans": [1133.9, 2196.9],
+      "rect": [141.7, 70.9]
+    },
+    "parameters": {
+      "state": {
+        "tm": ["LNA99"],
+        "tm-state-driver": "DISPLAY"
+      }
+    },
+    "labeltype": "tm_value"
+  }, {
+    "id": 664,
+    "type": "label",
+    "g": {
+      "trans": [1098.4, 832.7],
+      "rect": [283.5, 106.3]
+    },
+    "note": "converted to tm_value label from down converter component",
+    "labeltype": "tm_value",
+    "names": {
+      "visio": "Down Converter.2965"
+    },
+    "parameters": {
+      "state": {
+        "tm": ["DC001"],
+        "tm-state-driver": "ONOFF|DISPLAYMODE"
+      }
+    }
+  }, {
+    "id": 665,
+    "type": "label",
+    "g": {
+      "trans": [1381.9, 850.4],
+      "rect": [141.7, 70.9]
+    },
+    "note": "converted to text label from path component",
+    "labeltype": "text",
+    "names": {
+      "visio": "Path.665",
+      "scc": "MHz",
+      "csc": "MHz"
+    }
+  }, {
+    "id": 666,
+    "type": "outline",
+    "names": {
+      "visio": "Outline"
+    },
+    "g": {
+      "trans": [1063, 2622],
+      "rect": [283.5, 531.5]
+    },
+    "transparent": true,
+    "fillcolour": "white",
+    "linecolour": "black",
+    "lineweight": 1,
+    "linestyle": "solid"
+  }, {
+    "id": 667,
+    "type": "outline",
+    "names": {
+      "visio": "Outline.667"
+    },
+    "g": {
+      "trans": [1027.6, 779.5],
+      "rect": [566.9, 212.6]
+    },
+    "transparent": true,
+    "fillcolour": "white",
+    "linecolour": "black",
+    "lineweight": 1,
+    "linestyle": "solid"
+  }]
+}
